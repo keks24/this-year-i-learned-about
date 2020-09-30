@@ -1,57 +1,55 @@
-# 2019
-
 ```no-highlight
-./armbian_-_chfn_umask_-_change_umask_for_an_user_globally.png
-./armbian_-_sudo_-_redirection_permission_denied.png
-./debian_-_aes-256-ccm_vs._aes-256-gcm.png
-./debian_-_apt-config_-_show_all_available_options.png
-./debian_-_apt_-_customise_colours.png
-./debian_-_apt_-_customise_progress_bar.png
-./debian_-_asd_-_synchronise_any_files_to_tmpfs_with_overlay.png
-./debian_-_bash_-_how_to_add_a_progress_bar.png
-./debian_-_cryptsetup_fdisk_losetup_mount_-_mount_an_encrypted_partition_of_an_image_file.png
-./debian_-_dropbear_grub_initramfs_ssh_-_unlock_an_encrypted_hard_drive_via_ssh.png
-./debian_-_lxc_nfs-kernel-server_rpcbind_-_enable_nfs_share_within_linux_containers.png
-./debian_-_lxc_proxmox_-_cannot_start_lxc.png
-./debian_-_nginx_-_redirect_http_requests_to_https.png
-./debian_-_openssl_update-ca-certificates_-_generate_a_self-signed_certificate.png
-./debian_-_proxmox_-_install_proxmox_on_debian_buseter.png
-./debian_-_proxmox_sed_-_remove_the_subscription_pop-up.png
-./debian_-_pvcreate_vgcreate_lvcreate_-_create_an_lvm_using_multiple_disks.png
-./debian_-_pve-manager_proxmox-ve_proxmox-ve_depends_on_pve-manager;_however:_package_pve-manager_is_not_configured_yet.png
-./debian_-_shadow_-_let_password_attemps_fail_but_allow_ssh_login.png
-./debian_-_sshd_-_specify_ports_for_different_users.png
-./debian_-_systemd_-_restart_service_depending_on_another_service.png
-./debian_-_systemd_-_service_unit_locations.png
-./debian_-_update-initramfs_-_add_additional_files.png
-./debian_-_zfs_zpool_-_do_not_encrypt_the_root_pool.png
-./gentoo_-_bash_-_keep_associative_array_order.png
-./gentoo_-_bash_-_the_power_in_bash.png
-./gentoo_-_bc_-_calculate_password_entropy.png
-./gentoo_-_binfmt-support_chroot_qemu_qemu-user-static_-_chroot_into_a_raspberry_pi_sd_card_image.png
-./gentoo_-_busybox_loadkeys_-_how_to_load_another_keymap_in_initramfs_with_busybox.png
-./gentoo_-_cannot_compile_kernel_after_gcc_udpate.png
-./gentoo_-_chromium_-_trust_certificate_authority1-2.png
-./gentoo_-_chromium_-_trust_certificate_authority2-2.png
-./gentoo_-_dd_nasm_unzip_-_update_bios_with_freedos.png
-./gentoo_-_dd_sfdisk_-_backup_and_restore_the_mbr.png
-./gentoo_-_disable_cpu_hyperthreading.png
-./gentoo_-_exec_trap_-_how_to_log_an_entrie_shell_script_output.png
-./gentoo_-_fblogo_pngtopnm_ppmquant_-_how_to_change_tux_on_the_boot_screen.png
-./gentoo_-_find_-_find_broken_symlinks.png
-./gentoo_-_find_-_find_empty_directories.png
-./gentoo_-_git_-_rename_branch.png
-./gentoo_-_gpg-agent_-_how_to_force_gpg_to_use_console-mode.png
-./gentoo_-_kernel_no_rule_to_make_target.png
-./gentoo_-_make_-_get_kernel_version_from_kernel_sources.png
-./gentoo_-_nfs_showmount_-_list_shares_from_an_nfs_server.png
-./gentoo_-_notify-send_-_send_a_notification_when_a_command_is_finished.png
-./gentoo_-_pfl_e-file_-_find_packages_providing_a_package.png
-./gentoo_-_printenv_-_print_all_environment_variables.png
-./gentoo_-_read_-_colourise_prompt.png
-./gentoo_-_strings_tr_head_openssl_gpg2_-_generate_sophisticated_passwords.png
-./gentoo_-_systemd_targets.png
-./gentoo_-_update-ca-certificates_-_trust_self-signed_certificates.png
-./gentoo_-_why_does_the_speed_at_which_you_burn_a_cd_make_a_difference.png
-./raspbian_-_aria2c_-_allow_multiple_downloads_simultaneously.png
+-rw-r--r-- 1 ramon ramon  415365 Jan  2  2019 ./gentoo_-_find_-_find_empty_directories.png
+-rw-r--r-- 1 ramon ramon 1070158 Jan  5  2019 ./gentoo_-_exec_trap_-_how_to_log_an_entrie_shell_script_output.png
+-rw-r--r-- 1 ramon ramon 2122640 Jan  5  2019 ./gentoo_-_git_-_rename_branch.png
+-rw-r--r-- 1 ramon ramon  557731 Jan  5  2019 ./gentoo_-_strings_tr_head_openssl_gpg2_-_generate_sophisticated_passwords.png
+-rw-r--r-- 1 ramon ramon  765561 Jan  5  2019 ./gentoo_-_bc_-_calculate_password_entropy.png
+-rw-r--r-- 1 ramon ramon  375502 Jan 12  2019 ./gentoo_-_busybox_loadkeys_-_how_to_load_another_keymap_in_initramfs_with_busybox.png
+-rw-r--r-- 1 ramon ramon 2507199 Jan 24  2019 ./gentoo_-_dd_sfdisk_-_backup_and_restore_the_mbr.png
+-rw-r--r-- 1 ramon ramon 1387782 Jan 26  2019 ./gentoo_-_printenv_-_print_all_environment_variables.png
+-rw-r--r-- 1 ramon ramon  452089 Jan 27  2019 ./gentoo_-_fblogo_pngtopnm_ppmquant_-_how_to_change_tux_on_the_boot_screen.png
+-rw-r--r-- 1 ramon ramon 1523560 Feb 23  2019 ./gentoo_-_disable_cpu_hyperthreading.png
+-rw-r--r-- 1 ramon ramon  735944 Mar 10  2019 ./armbian_-_sudo_-_redirection_permission_denied.png
+-rw-r--r-- 1 ramon ramon  722946 Mar 17  2019 ./gentoo_-_make_-_get_kernel_version_from_kernel_sources.png
+-rw-r--r-- 1 ramon ramon  565581 Mar 30  2019 ./gentoo_-_cannot_compile_kernel_after_gcc_udpate.png
+-rw-r--r-- 1 ramon ramon 1502387 Mar 31  2019 ./gentoo_-_find_-_find_broken_symlinks.png
+-rw-r--r-- 1 ramon ramon 1280598 Apr  2  2019 ./gentoo_-_read_-_colourise_prompt.png
+-rw-r--r-- 1 ramon ramon 1066874 Jun  2  2019 ./gentoo_-_bash_-_keep_associative_array_order.png
+-rw-r--r-- 1 ramon ramon 1085660 Jun 16  2019 ./armbian_-_chfn_umask_-_change_umask_for_an_user_globally.png
+-rw-r--r-- 1 ramon ramon 2432909 Jun 21  2019 ./gentoo_-_gpg-agent_-_how_to_force_gpg_to_use_console-mode.png
+-rw-r--r-- 1 ramon ramon 1211794 Jul  3  2019 ./gentoo_-_bash_-_the_power_in_bash.png
+-rw-r--r-- 1 ramon ramon  717671 Jul  6  2019 ./gentoo_-_why_does_the_speed_at_which_you_burn_a_cd_make_a_difference.png
+-rw-r--r-- 1 ramon ramon  568553 Aug  9  2019 ./gentoo_-_kernel_no_rule_to_make_target.png
+-rw-r--r-- 1 ramon ramon  570512 Aug  9  2019 ./gentoo_-_pfl_e-file_-_find_packages_providing_a_package.png
+-rw-r--r-- 1 ramon ramon 2506313 Sep 28  2019 ./gentoo_-_notify-send_-_send_a_notification_when_a_command_is_finished.png
+-rw-r--r-- 1 ramon ramon 1681535 Sep 29  2019 ./debian_-_dropbear_grub_initramfs_ssh_-_unlock_an_encrypted_hard_drive_via_ssh.png
+-rw-r--r-- 1 ramon ramon  720894 Sep 29  2019 ./debian_-_update-initramfs_-_add_additional_files.png
+-rw-r--r-- 1 ramon ramon  608308 Oct  2  2019 ./gentoo_-_binfmt-support_chroot_qemu_qemu-user-static_-_chroot_into_a_raspberry_pi_sd_card_image.png
+-rw-r--r-- 1 ramon ramon  673009 Oct  2  2019 ./raspbian_-_aria2c_-_allow_multiple_downloads_simultaneously.png
+-rw-r--r-- 1 ramon ramon  569799 Oct  8  2019 ./debian_-_proxmox_-_install_proxmox_on_debian_buseter.png
+-rw-r--r-- 1 ramon ramon  871794 Oct  8  2019 ./debian_-_pve-manager_proxmox-ve_proxmox-ve_depends_on_pve-manager;_however:_package_pve-manager_is_not_configured_yet.png
+-rw-r--r-- 1 ramon ramon  942718 Oct  8  2019 ./debian_-_cryptsetup_fdisk_losetup_mount_-_mount_an_encrypted_partition_of_an_image_file.png
+-rw-r--r-- 1 ramon ramon  219376 Oct  9  2019 ./debian_-_proxmox_sed_-_remove_the_subscription_pop-up.png
+-rw-r--r-- 1 ramon ramon  956426 Oct  9  2019 ./gentoo_-_dd_nasm_unzip_-_update_bios_with_freedos.png
+-rw-r--r-- 1 ramon ramon  990504 Oct 11  2019 ./debian_-_pvcreate_vgcreate_lvcreate_-_create_an_lvm_using_multiple_disks.png
+-rw-r--r-- 1 ramon ramon 1905246 Oct 12  2019 ./debian_-_zfs_zpool_-_do_not_encrypt_the_root_pool.png
+-rw-r--r-- 1 ramon ramon  733147 Oct 12  2019 ./debian_-_aes-256-ccm_vs._aes-256-gcm.png
+-rw-r--r-- 1 ramon ramon 1060594 Oct 13  2019 ./debian_-_apt_-_customise_progress_bar.png
+-rw-r--r-- 1 ramon ramon 1236798 Oct 13  2019 ./debian_-_apt_-_customise_colours.png
+-rw-r--r-- 1 ramon ramon  517880 Oct 13  2019 ./debian_-_shadow_-_let_password_attemps_fail_but_allow_ssh_login.png
+-rw-r--r-- 1 ramon ramon 5576423 Oct 13  2019 ./debian_-_bash_-_how_to_add_a_progress_bar.png
+-rw-r--r-- 1 ramon ramon  782120 Oct 13  2019 ./debian_-_asd_-_synchronise_any_files_to_tmpfs_with_overlay.png
+-rw-r--r-- 1 ramon ramon  801579 Oct 13  2019 ./debian_-_sshd_-_specify_ports_for_different_users.png
+-rw-r--r-- 1 ramon ramon  867814 Oct 13  2019 ./debian_-_apt-config_-_show_all_available_options.png
+-rw-r--r-- 1 ramon ramon  908363 Oct 13  2019 ./debian_-_systemd_-_restart_service_depending_on_another_service.png
+-rw-r--r-- 1 ramon ramon 2233177 Oct 14  2019 ./debian_-_lxc_proxmox_-_cannot_start_lxc.png
+-rw-r--r-- 1 ramon ramon 2754653 Nov  1  2019 ./gentoo_-_systemd_targets.png
+-rw-r--r-- 1 ramon ramon 1034845 Dec 14  2019 ./gentoo_-_nfs_showmount_-_list_shares_from_an_nfs_server.png
+-rw-r--r-- 1 ramon ramon  737805 Dec 14  2019 ./debian_-_lxc_nfs-kernel-server_rpcbind_-_enable_nfs_share_within_linux_containers.png
+-rw-r--r-- 1 ramon ramon 1325827 Dec 21  2019 ./debian_-_systemd_-_service_unit_locations.png
+-rw-r--r-- 1 ramon ramon  169635 Dec 31  2019 ./gentoo_-_update-ca-certificates_-_trust_self-signed_certificates.png
+-rw-r--r-- 1 ramon ramon 2033154 Dec 31  2019 ./debian_-_nginx_-_redirect_http_requests_to_https.png
+-rw-r--r-- 1 ramon ramon  218145 Dec 31  2019 ./gentoo_-_chromium_-_trust_certificate_authority2-2.png
+-rw-r--r-- 1 ramon ramon 3958177 Dec 31  2019 ./debian_-_openssl_update-ca-certificates_-_generate_a_self-signed_certificate.png
+-rw-r--r-- 1 ramon ramon 5407231 Dec 31  2019 ./gentoo_-_chromium_-_trust_certificate_authority1-2.png
 ```
