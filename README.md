@@ -7,7 +7,7 @@ a totally inaccurate list of things i learned within a year. the dark figure is 
 * [2019](2019/README.md)
 * [2020](2020/README.md)
 
-# example command to generate the lists
+# example command to generate a list
 ```bash
 $ find . -type f -name "*.png" -newermt "20170101" -and -not -newermt "20180101" | sort > ~/tmp/2017.md
 ```
