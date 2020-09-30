@@ -1,5 +1,5 @@
 # this year i learned about
-a totally inaccurate list of things i learned of every year. the dark figure is very high!
+a totally inaccurate list of things i learned within a year. the dark figure is very high!
 
 # example command to generate the lists
 ```bash
