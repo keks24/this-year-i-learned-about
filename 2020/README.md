@@ -126,6 +126,7 @@
 -rw-r--r-- 1 ramon ramon   519473 Sep 26 16:37 ./gentoo_-_convert_imagemagick_-_crop_picture.png
 -rw-r--r-- 1 ramon ramon   666035 Sep 26 16:34 ./gentoo_-_convert_imagemagick_-_convert_one_dimension_while_keeping_the_aspect_ratio.png
 -rw-r--r-- 1 ramon ramon  1801863 Sep 27 02:47 ./gentoo_-_git_-_how_to_work_with_pull_requests_how_to_cherry_pick_commits.png
+-rw-r--r-- 1 ramon ramon  3098764 Sep 27 16:29 ./1miscellaneous/ebay_-_tips_on_how_to_take_photos.png
 -rw-r--r-- 1 ramon ramon  1142417 Sep 28 07:09 ./gentoo_-_ssh-agent_-_the_pitfalls_of_using_ssh-agent.png
 -rw-r--r-- 1 ramon ramon   521355 Sep 30 03:22 ./gentoo_-_sort_-_how_to_sort_by_month_name.png
 ```
