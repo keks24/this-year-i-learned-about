@@ -9,7 +9,7 @@ a totally inaccurate list of things i learned within a year. the dark figure is 
 
 # example command to generate a list
 ```bash
-$ find . -type f -name "*.png" -newermt "20170101" -and -not -newermt "20180101" | sort > ~/tmp/2017.md
+$ find . -type f -name "*.png" -newermt 20200101 -and -not -newermt 20210101 -exec ls -l "{}" + | sort -k6,6M -k7,7n > ~/tmp/2020.md
 ```
 
 # update interval
