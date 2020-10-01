@@ -114,7 +114,7 @@
 -rw-r--r-- 1 ramon ramon   972118 Sep  3 17:36 ./gentoo_-_flatpak_steam_-_fix_ssl_errors.png
 -rw-r--r-- 1 ramon ramon  1751850 Sep  5 03:36 ./gentoo_-_bash_curl_-_evaluate_http_response.png
 -rw-r--r-- 1 ramon ramon   956960 Sep  5 14:14 ./gentoo_-_mount_-_bind_or_remount_part_of_the_file_hierarchy_to_another_directory.png
--rw-r--r-- 1 ramon ramon 10770566 Sep  7 00:12 ./windows_-_winodws10_ameliorated.png
+-rw-r--r-- 1 ramon ramon 10770566 Sep  7 00:12 ./windows_-_windows10_ameliorated.png
 -rw-r--r-- 1 ramon ramon   314814 Sep  7 20:13 ./gentoo_-_proton_steam_-_how_to_reinstall_proton.png
 -rw-r--r-- 1 ramon ramon   507682 Sep  7 03:31 ./gentoo_-_vboxmanage_-_set_up_nat_network.png
 -rw-r--r-- 1 ramon ramon   542919 Sep  7 03:26 ./gentoo_-_sudo_tee_-_save_read-only_file_as_unprivileged_user.png
@@ -129,4 +129,5 @@
 -rw-r--r-- 1 ramon ramon  3098764 Sep 27 16:29 ./1miscellaneous/ebay_-_tips_on_how_to_take_photos.png
 -rw-r--r-- 1 ramon ramon  1142417 Sep 28 07:09 ./gentoo_-_ssh-agent_-_the_pitfalls_of_using_ssh-agent.png
 -rw-r--r-- 1 ramon ramon   521355 Sep 30 03:22 ./gentoo_-_sort_-_how_to_sort_by_month_name.png
+-rw-r--r-- 1 ramon ramon   649337 Oct  1 20:01 ./gentoo_-_echo_-_should_warning_messages_be_redirected_to_stderr_or_stdout.png
 ```
