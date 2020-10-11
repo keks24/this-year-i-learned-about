@@ -128,6 +128,24 @@
 -rw-r--r-- 1 ramon ramon  1801863 Sep 27 02:47 ./gentoo_-_git_-_how_to_work_with_pull_requests_how_to_cherry_pick_commits.png
 -rw-r--r-- 1 ramon ramon  3098764 Sep 27 16:29 ./1miscellaneous/ebay_-_tips_on_how_to_take_photos.png
 -rw-r--r-- 1 ramon ramon  1142417 Sep 28 07:09 ./gentoo_-_ssh-agent_-_the_pitfalls_of_using_ssh-agent.png
+-rw-r--r-- 1 ramon ramon   807444 Sep 28 09:07 ./gentoo_-_st_-_configuration.png
 -rw-r--r-- 1 ramon ramon   521355 Sep 30 03:22 ./gentoo_-_sort_-_how_to_sort_by_month_name.png
 -rw-r--r-- 1 ramon ramon   649337 Oct  1 20:01 ./gentoo_-_echo_-_should_warning_messages_be_redirected_to_stderr_or_stdout.png
+-rw-r--r-- 1 ramon ramon   108767 Oct  2 14:18 ./gentoo_-_bash_-_escape_strings_automatically1-2.png
+-rw-r--r-- 1 ramon ramon   603163 Oct  2 10:47 ./gentoo_-_filefrag_-_check_fragmentation_of_a_certain_file.png
+-rw-r--r-- 1 ramon ramon   926587 Oct  2 14:19 ./gentoo_-_bash_-_escape_strings_automatically2-2.png
+-rw-r--r-- 1 ramon ramon  1236135 Oct  3 16:11 ./gentoo_-_strace_-_ultimate_strace_cheat_sheet.png
+-rw-r--r-- 1 ramon ramon  1099671 Oct  5 15:18 ./gentoo_-_git_-_move_files_from_one_repository_to_another_while_preserving_the_history2-2.png
+-rw-r--r-- 1 ramon ramon  1213336 Oct  5 06:14 ./gentoo_-_git_-_apply_git_diff_patch_file.png
+-rw-r--r-- 1 ramon ramon  1237165 Oct  5 06:13 ./gentoo_-_git_-_patch_git_diff_patch_file.png
+-rw-r--r-- 1 ramon ramon  1622310 Oct  5 16:31 ./gentoo_-_git_-_submodules_basic_explanation.png
+-rw-r--r-- 1 ramon ramon   641504 Oct  5 13:27 ./gentoo_-_what_is_¬_called.png
+-rw-r--r-- 1 ramon ramon   826260 Oct  5 14:37 ./gentoo_-_git_-_move_files_from_one_repository_to_another_while_preserving_the_history.png
+-rw-r--r-- 1 ramon ramon   826260 Oct  5 15:00 ./gentoo_-_git_-_move_files_from_one_repository_to_another_while_preserving_the_history1-2.png
+-rw-r--r-- 1 ramon ramon   494271 Oct  9 17:16 ./gentoo_-_matching_numeric_ranges_with_regular_expressions.png
+-rw-r--r-- 1 ramon ramon  1216084 Oct 10 21:44 ./gentoo_-_zsh_-_zshenv_zshrc_zlogin_zprofile_zlogout.png
+-rw-r--r-- 1 ramon ramon  1410638 Oct 11 10:50 ./gentoo_-_git_-_update_branches.png
+-rw-r--r-- 1 ramon ramon  2300667 Oct 11 13:06 ./gentoo_-_bash_flock_trap_-_using_lock_files_in_linux.png
+-rw-r--r-- 1 ramon ramon  2403202 Oct 11 10:57 ./gentoo_-_bash_true_-_colon_sign.png
+-rw-r--r-- 1 ramon ramon   265949 Oct 11 12:15 ./gentoo_-_bash_trap_-_intercept_signals.png
 ```
