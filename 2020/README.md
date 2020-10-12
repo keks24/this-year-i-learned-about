@@ -144,8 +144,20 @@
 -rw-r--r-- 1 ramon ramon   826260 Oct  5 15:00 ./gentoo_-_git_-_move_files_from_one_repository_to_another_while_preserving_the_history1-2.png
 -rw-r--r-- 1 ramon ramon   494271 Oct  9 17:16 ./gentoo_-_matching_numeric_ranges_with_regular_expressions.png
 -rw-r--r-- 1 ramon ramon  1216084 Oct 10 21:44 ./gentoo_-_zsh_-_zshenv_zshrc_zlogin_zprofile_zlogout.png
+-rw-r--r-- 1 ramon ramon   111719 Oct 11 19:18 ./gentoo_-_purpose_of_var_lock.png
+-rw-r--r-- 1 ramon ramon  1378702 Oct 11 18:53 ./gentoo_-_torbrowser_-_how_to_change_the_guard_node.png
 -rw-r--r-- 1 ramon ramon  1410638 Oct 11 10:50 ./gentoo_-_git_-_update_branches.png
--rw-r--r-- 1 ramon ramon  2300667 Oct 11 13:06 ./gentoo_-_bash_flock_trap_-_using_lock_files_in_linux.png
 -rw-r--r-- 1 ramon ramon  2403202 Oct 11 10:57 ./gentoo_-_bash_true_-_colon_sign.png
--rw-r--r-- 1 ramon ramon   265949 Oct 11 12:15 ./gentoo_-_bash_trap_-_intercept_signals.png
+-rw-r--r-- 1 ramon ramon   437574 Oct 11 20:11 ./gentoo_-_bash_printf_-_add_leading_spaces.png
+-rw-r--r-- 1 ramon ramon  1148422 Oct 12 09:33 ./gentoo_-_exec_flock_-_using_flock_without_invoking_a_subshell.png
+-rw-r--r-- 1 ramon ramon  1231886 Oct 12 08:29 ./gentoo_-_locate_mlocate_updatedb_-_search_within_specific_directories.png
+-rw-r--r-- 1 ramon ramon  1968249 Oct 12 09:35 ./gentoo_-_bash_-_when_to_use_additional_file_descriptors.png
+-rw-r--r-- 1 ramon ramon  2300667 Oct 12 09:33 ./gentoo_-_flock_trap_-_using_lock_files_in_linux.png
+-rw-r--r-- 1 ramon ramon   265949 Oct 12 09:33 ./gentoo_-_trap_-_intercept_signals.png
+-rw-r--r-- 1 ramon ramon  3143036 Oct 12 10:28 ./gentoo_-_trap_-_multiple_commands_for_certain_signals.png
+-rw-r--r-- 1 ramon ramon   749939 Oct 12 09:33 ./gentoo_-_flock_touch_-_get_exclusive_lock_at_the_earliest_point.png
+-rw-r--r-- 1 ramon ramon   852394 Oct 12 09:33 ./gentoo_-_exec_-_open_a_file_for_reading_on_a_free_file_descriptor.png
+-rw-r--r-- 1 ramon ramon   909256 Oct 12 08:32 ./gentoo_-_locate_mlocate_updatedb_-_save_location_and_exclude_certain_paths.png
+-rw-r--r-- 1 ramon ramon   911391 Oct 12 09:42 ./gentoo_-_lsof_-_list_open_file_descriptors.png
+-rw-r--r-- 1 ramon ramon   926755 Oct 12 11:07 ./gentoo_-_bash_-_get_pid_of_current_executed_process.png
 ```
