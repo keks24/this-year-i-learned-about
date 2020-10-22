@@ -13,4 +13,4 @@ $ find . -type f -name "*.png" -newermt 20200101 -and -not -newermt 20210101 -ex
 ```
 
 # update interval
-every `31st december` or when i am in the mood to update it.
+when i am in the mood to update it.
