@@ -15,7 +15,7 @@
 -rw-r--r-- 1 ramon ramon   435507 Jan 25  2020 ./debian_-_gpg_-_fix_inappropiate_ioctl_for_device.png
 -rw-r--r-- 1 ramon ramon  1145845 Jan 27  2020 ./gentoo_-_e2label_gparted_mlabel_-_label_a_fat32_partition.png
 -rw-r--r-- 1 ramon ramon   231754 Feb  4  2020 ./gentoo_-_ffmpeg_-_manipulate_audio.png
--rw-r--r-- 1 ramon ramon  2043546 Apr 23 13:59 ./gentoo_-_emerge_-_solve_circular_dependencies.png
+-rw-r--r-- 1 ramon ramon  2043546 Apr 23  2020 ./gentoo_-_emerge_-_solve_circular_dependencies.png
 -rw-r--r-- 1 ramon ramon   885101 Apr 25 23:16 ./gentoo_-_pam_-_authentication_failure_with_valid_password.png
 -rw-r--r-- 1 ramon ramon   844560 Apr 28 08:05 ./gentoo_-_how_to_set_kernel_font.png
 -rw-r--r-- 1 ramon ramon   586367 Apr 29 20:00 ./gentoo_-_read-edid_parse-edid_-_modify_the_physical_display_size_in_an_edid_file.png
@@ -153,11 +153,23 @@
 -rw-r--r-- 1 ramon ramon  1231886 Oct 12 08:29 ./gentoo_-_locate_mlocate_updatedb_-_search_within_specific_directories.png
 -rw-r--r-- 1 ramon ramon  1968249 Oct 12 09:35 ./gentoo_-_bash_-_when_to_use_additional_file_descriptors.png
 -rw-r--r-- 1 ramon ramon  2300667 Oct 12 09:33 ./gentoo_-_flock_trap_-_using_lock_files_in_linux.png
+-rw-r--r-- 1 ramon ramon   237556 Oct 12 16:28 ./gentoo_-_bash_-_check_if_variable_is_an_array.png
 -rw-r--r-- 1 ramon ramon   265949 Oct 12 09:33 ./gentoo_-_trap_-_intercept_signals.png
+-rw-r--r-- 1 ramon ramon  2680067 Oct 12 11:28 ./gentoo_-_bash_-_how_to_debug_a_bash_script.png
 -rw-r--r-- 1 ramon ramon  3143036 Oct 12 10:28 ./gentoo_-_trap_-_multiple_commands_for_certain_signals.png
 -rw-r--r-- 1 ramon ramon   749939 Oct 12 09:33 ./gentoo_-_flock_touch_-_get_exclusive_lock_at_the_earliest_point.png
 -rw-r--r-- 1 ramon ramon   852394 Oct 12 09:33 ./gentoo_-_exec_-_open_a_file_for_reading_on_a_free_file_descriptor.png
 -rw-r--r-- 1 ramon ramon   909256 Oct 12 08:32 ./gentoo_-_locate_mlocate_updatedb_-_save_location_and_exclude_certain_paths.png
 -rw-r--r-- 1 ramon ramon   911391 Oct 12 09:42 ./gentoo_-_lsof_-_list_open_file_descriptors.png
 -rw-r--r-- 1 ramon ramon   926755 Oct 12 11:07 ./gentoo_-_bash_-_get_pid_of_current_executed_process.png
+-rw-r--r-- 1 ramon ramon  1872066 Oct 14 10:51 ./gentoo_-_bash_-_run_commands_saved_as_variables.png
+-rw-r--r-- 1 ramon ramon   969757 Oct 14 10:20 ./gentoo_-_bash_-_redirect_errors_to_dev_null_dynamically.png
+-rw-r--r-- 1 ramon ramon   532725 Oct 15 14:12 ./gentoo_-_bash_perl_printf_-_display_certain_ascii_characters.png
+-rw-r--r-- 1 ramon ramon   709314 Oct 15 13:45 ./gentoo_-_neovim_-_insert_unicode_characters.png
+-rw-r--r-- 1 ramon ramon  2223972 Oct 18 21:29 ./gentoo_-_ffmpeg_-_convert_still_image_to_a_video.png
+-rw-r--r-- 1 ramon ramon   426435 Oct 18 21:30 ./gentoo_-_ffmpeg_-_convert_set_of_images_to_a_video.png
+-rw-r--r-- 1 ramon ramon  1862165 Oct 22 08:42 ./gentoo_-_neovim_-_sort_by_pattern.png
+-rw-r--r-- 1 ramon ramon  2300276 Oct 22 08:32 ./gentoo_-_neovim_-_sorting_columns_of_text.png
+-rw-r--r-- 1 ramon ramon   554837 Oct 22 09:21 ./gentoo_-_ffmpeg_-_subtitle_encoding_currently_only_possible_from_text_to_text_or_bitmap_to_bitmap.png
+-rw-r--r-- 1 ramon ramon   452936 Oct 24 00:42 ./gentoo_-_clockwise_spiral_rule.png
 ```
