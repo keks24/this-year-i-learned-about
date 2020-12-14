@@ -61,9 +61,9 @@
 -rw-r--r-- 1 ramon ramon  1668474 Jun 10  2020 ./gentoo_-_alsa_-_save_current_configuration.png
 -rw-r--r-- 1 ramon ramon   349181 Jun 11  2020 ./gentoo_-_pulseaudio_-_set_default_sample_channels.png
 -rw-r--r-- 1 ramon ramon  2414372 Jun 12  2020 ./gentoo_-_find_-_find_files_by_their_access_or_modification_time.png
--rw-r--r-- 1 ramon ramon  4509731 Jun 14 16:46 ./gentoo_-_umask_-_understanding_umask1-2.png
--rw-r--r-- 1 ramon ramon   511497 Jun 14 16:46 ./gentoo_-_umask_-_understanding_umask2-2.png
--rw-r--r-- 1 ramon ramon   778596 Jun 14 15:53 ./gentoo_-_ln_-_cannot_traverse_symlink_in_sticky_directory_when_the_owner_differs.png
+-rw-r--r-- 1 ramon ramon  4509731 Jun 14  2020 ./gentoo_-_umask_-_understanding_umask1-2.png
+-rw-r--r-- 1 ramon ramon   511497 Jun 14  2020 ./gentoo_-_umask_-_understanding_umask2-2.png
+-rw-r--r-- 1 ramon ramon   778596 Jun 14  2020 ./gentoo_-_ln_-_cannot_traverse_symlink_in_sticky_directory_when_the_owner_differs.png
 -rw-r--r-- 1 ramon ramon   612840 Jun 17 18:00 ./debian_-_nginx_-_set_variables.png
 -rw-r--r-- 1 ramon ramon   648666 Jun 17 20:46 ./debian_-_mail_-_delete_all_e-mails.png
 -rw-r--r-- 1 ramon ramon  1244892 Jun 18 17:31 ./gentoo_-_emerge_-_when_to_use_oneshot_parameter.png
@@ -198,7 +198,16 @@
 -rw-r--r-- 1 ramon ramon   593271 Nov 21 00:50 ./gentoo_-_cryptsetup_-_how_to_change_password.png
 -rw-r--r-- 1 ramon ramon  1158579 Nov 23 19:08 ./gentoo_-_bash_-_how_to_close_file_descriptors.png
 -rw-r--r-- 1 ramon ramon  3956442 Dec  8 11:30 ./gentoo_-_thunderbird_-_do_not_attach_openpgp_key_by_default.png
--rw-r--r-- 1 ramon ramon  1426964 Dec 11 23:29 ./debian_-_systemd-escape_-_escape_paths_for_service_units.png
+-rw-r--r-- 1 ramon ramon  1426964 Dec 11 23:29 ./debian_-_systemd-escape_-_escape_paths_for_systemd_service_units.png
 -rw-r--r-- 1 ramon ramon   363748 Dec 11 02:28 ./debian_-_steam_-_define_public_ip_address.png
 -rw-r--r-- 1 ramon ramon  5096648 Dec 11 02:46 ./debian_-_steam_-_command_line_options.png
+-rw-r--r-- 1 ramon ramon  2460042 Dec 12 22:00 ./gentoo_-_bash_-_create_custom_progressbar.png
+-rw-r--r-- 1 ramon ramon   982898 Dec 12 18:09 ./debian_-_bash_-_trap_signals.png
+-rw-r--r-- 1 ramon ramon  1002692 Dec 14 03:20 ./gentoo_-_vagrant_virtualbox_-_use_nat_dns_resolver.png
+-rw-r--r-- 1 ramon ramon  1011068 Dec 14 20:55 ./gentoo_-_tcpdump_-_monitor_certain_interface_and_port.png
+-rw-r--r-- 1 ramon ramon  1049244 Dec 14 03:22 ./manjaro_-_vagrant_virtualbox-_error_while_installing_plugins.png
+-rw-r--r-- 1 ramon ramon  2036155 Dec 14 05:18 ./gentoo_-_vagrant_virtualbox_-_configure_nat_adapter.png
+-rw-r--r-- 1 ramon ramon  4907066 Dec 14 05:28 ./gentoo_-_vagrant_virtualbox_-_virtualbox_built-in_dhcp_ip_address_range.png
+-rw-r--r-- 1 ramon ramon   885880 Dec 14 12:59 ./gentoo_-_tcpdump_-_check_unencrypted_connections.png
+-rw-r--r-- 1 ramon ramon   912134 Dec 14 12:07 ./gentoo_-_telnet_-_how_to_exit_telnet.png
 ```
