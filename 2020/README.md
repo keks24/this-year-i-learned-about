@@ -64,7 +64,7 @@
 -rw-r--r-- 1 ramon ramon  4509731 Jun 14  2020 ./gentoo_-_umask_-_understanding_umask1-2.png
 -rw-r--r-- 1 ramon ramon   511497 Jun 14  2020 ./gentoo_-_umask_-_understanding_umask2-2.png
 -rw-r--r-- 1 ramon ramon   778596 Jun 14  2020 ./gentoo_-_ln_-_cannot_traverse_symlink_in_sticky_directory_when_the_owner_differs.png
--rw-r--r-- 1 ramon ramon   612840 Jun 17 18:00 ./debian_-_nginx_-_set_variables.png
+-rw-r--r-- 1 ramon ramon   612840 Jun 17  2020 ./debian_-_nginx_-_set_variables.png
 -rw-r--r-- 1 ramon ramon   648666 Jun 17 20:46 ./debian_-_mail_-_delete_all_e-mails.png
 -rw-r--r-- 1 ramon ramon  1244892 Jun 18 17:31 ./gentoo_-_emerge_-_when_to_use_oneshot_parameter.png
 -rw-r--r-- 1 ramon ramon   416896 Jun 18 17:31 ./gentoo_-_imagemagick_import_x_xdotool_-_create_a_screenshot_of_a_focused_window.png
@@ -102,9 +102,9 @@
 -rw-r--r-- 1 ramon ramon   661791 Aug  7 20:22 ./gentoo_-_xorg-server_-_what_is_the_downside_of_the_tearfree_setting.png
 -rw-r--r-- 1 ramon ramon   322688 Aug  9 10:46 ./gentoo_-_gpg_-_making_and_verifying_signatures.png
 -rw-r--r-- 1 ramon ramon   573800 Aug  9 10:55 ./gentoo_-_gpg_-_how_to_create_a_detached_cleatext_signature_file.png
--rw-r--r-- 1 ramon ramon  1783008 Aug 10 23:13 ./gentoo_-_getopts_-_how_to_parse_parameters_in_bash3-3.png
--rw-r--r-- 1 ramon ramon  6134558 Aug 10 23:13 ./gentoo_-_getopts_-_how_to_parse_parameters_in_bash1-3.png
--rw-r--r-- 1 ramon ramon   816897 Aug 10 23:13 ./gentoo_-_getopts_-_how_to_parse_parameters_in_bash2-3.png
+-rw-r--r-- 1 ramon ramon  1783008 Aug 10 23:13 ./gentoo_-_getopt_getopts_-_how_to_parse_parameters_in_bash3-3.png
+-rw-r--r-- 1 ramon ramon  6134558 Aug 10 23:13 ./gentoo_-_getopt_getopts_-_how_to_parse_parameters_in_bash1-3.png
+-rw-r--r-- 1 ramon ramon   816897 Aug 10 23:13 ./gentoo_-_getopt_getopts_-_how_to_parse_parameters_in_bash2-3.png
 -rw-r--r-- 1 ramon ramon  2539027 Aug 22 20:37 ./gentoo_-_bash_-_illustrated_redirection_tutorial.png
 -rw-r--r-- 1 ramon ramon  2858071 Aug 23 13:59 ./1miscellaneous/oneplusone_-_mobile_network_standby_high_battery_usage.png
 -rw-r--r-- 1 ramon ramon   410700 Aug 25 03:10 ./gentoo_-_xdg-user-dirs-update_xorg-server_-_set_custom_default_directories_for_xorg.png
@@ -208,6 +208,18 @@
 -rw-r--r-- 1 ramon ramon  1049244 Dec 14 03:22 ./manjaro_-_vagrant_virtualbox-_error_while_installing_plugins.png
 -rw-r--r-- 1 ramon ramon  2036155 Dec 14 05:18 ./gentoo_-_vagrant_virtualbox_-_configure_nat_adapter.png
 -rw-r--r-- 1 ramon ramon  4907066 Dec 14 05:28 ./gentoo_-_vagrant_virtualbox_-_virtualbox_built-in_dhcp_ip_address_range.png
+-rw-r--r-- 1 ramon ramon  5226863 Dec 14 21:59 ./gentoo_-_git_-_how_to_censor_authors_in_commits.png
+-rw-r--r-- 1 ramon ramon   601193 Dec 14 21:48 ./gentoo_-_git_-_how_to_censor_commit_history.png
 -rw-r--r-- 1 ramon ramon   885880 Dec 14 12:59 ./gentoo_-_tcpdump_-_check_unencrypted_connections.png
 -rw-r--r-- 1 ramon ramon   912134 Dec 14 12:07 ./gentoo_-_telnet_-_how_to_exit_telnet.png
+-rw-r--r-- 1 ramon ramon   919022 Dec 14 23:09 ./gentoo_-_git_-_how_to_censor_files_in_the_entire_history.png
+-rw-r--r-- 1 ramon ramon  1158657 Dec 15 13:51 ./gentoo_-_ss_-_kill_established_connection.png
+-rw-r--r-- 1 ramon ramon  1800545 Dec 15 13:23 ./debian_-_iptables_-_block_incoming_and_outgoing_ports.png
+-rw-r--r-- 1 ramon ramon   835118 Dec 15 13:55 ./debian_-_iptables_-_log_location.png
+-rw-r--r-- 1 ramon ramon  1756584 Dec 16 08:32 ./gentoo_-_vagrant_virtualbox_-_add_a_new_hard_drive_or_increase_hard_drive_capacity.png
+-rw-r--r-- 1 ramon ramon  2293106 Dec 16 14:16 ./debian_-_iptables_-_remove_certain_rules.png
+-rw-r--r-- 1 ramon ramon   269138 Dec 16 13:06 ./gentoo_-_compdef_compinit_zsh_-_change_tab_completion_alias.png
+-rw-r--r-- 1 ramon ramon   588298 Dec 16 13:40 ./debian_-_iptables_-_enable_logging.png
+-rw-r--r-- 1 ramon ramon   628695 Dec 16 08:56 ./debian_-_iptables_nftables_-_migrate_xtables_to_nftables.png
+-rw-r--r-- 1 ramon ramon   749127 Dec 16 02:22 ./debian_-_iptables_-_only_allow_localhost_on_certain_port.png
 ```
