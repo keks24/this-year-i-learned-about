@@ -21,7 +21,7 @@ then
 else
     echo -e "# ${current_year}\n" > "${readme_file}"
     echo '```no-highlight' >> "${readme_file}"
-    /usr/bin/find "${document_directory}" -type f -name "*.png" -newermt "${current_year}${first_day}${first_month}" -and -not -newermt "$(( ${current_year} + 1 ))${first_day}${first_month}" -exec /bin/ls -l "{}" + | /usr/bin/sort --key="6,6M" --key="7,7n" >> "${readme_file}"
+    /usr/bin/find "${document_directory}" -type f -name "*.png" -newermt "${current_year}${first_month}${first_day}" -and -not -newermt "$(( ${current_year} + 1 ))${first_month}${first_day}" -exec /bin/ls -l "{}" + | /usr/bin/sort --key="6,6M" --key="7,7n" >> "${readme_file}"
     echo '```' >> "${readme_file}"
 
     /bin/umount "${mount_point}"
