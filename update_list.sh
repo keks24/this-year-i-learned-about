@@ -2,7 +2,7 @@
 
 source "/usr/local/lib/functions.sh"
 
-COMMAND_ARRAY=("/usr/bin/find" "/bin/ls" "/usr/bin/sort")
+COMMAND_ARRAY=("/usr/bin/find" "/bin/ls" "/bin/mount" "/usr/bin/sort" "/bin/umount")
 checkCommands
 
 # define global variables
@@ -23,4 +23,6 @@ else
     echo '```no-highlight' >> "${readme_file}"
     /usr/bin/find "${document_directory}" -type f -name "*.png" -newermt "${current_year}${first_day}${first_month}" -and -not -newermt "$(( ${current_year} + 1 ))${first_day}${first_month}" -exec /bin/ls -l "{}" + | /usr/bin/sort --key="6,6M" --key="7,7n" >> "${readme_file}"
     echo '```' >> "${readme_file}"
+
+    /bin/umount "${mount_point}"
 fi
