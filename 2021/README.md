@@ -9,5 +9,5 @@
 -rw-r--r-- 1 ramon ramon  300729 Jan  6 02:14 /media/share/data/documents/png/gentoo_-_zerofree_-_empty_free_space1-2.png
 -rw-r--r-- 1 ramon ramon  389581 Jan  6 02:17 /media/share/data/documents/png/gentoo_-_zerofree_-_empty_free_space2-2.png
 -rw-r--r-- 1 ramon ramon 2188715 Jan  7 23:17 /media/share/data/documents/png/gentoo_-_cd-drive_dmesg_-_get_cd_drive_information.png
--rw-r--r-- 1 ramon ramon 2326090 Jan  9 11:34 /media/share/data/documents/png/raspbian_-_retropie_-_upgrade_debian_stretch_to_debian_buster.png
+-rw-r--r-- 1 ramon ramon 2566811 Jan  9 12:44 /media/share/data/documents/png/raspbian_-_retropie_-_upgrade_debian_stretch_to_debian_buster.png
 ```
