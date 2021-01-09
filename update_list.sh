@@ -21,7 +21,7 @@ then
 else
     if [[ ! -f "${directory_path}" ]]
     then
-        /bin/mkdir "${directory_path}"
+        /bin/mkdir --parents "${directory_path}"
     fi
 
     echo -e "# ${current_year}\n" > "${readme_file}"
