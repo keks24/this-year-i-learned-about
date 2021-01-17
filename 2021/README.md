@@ -9,5 +9,13 @@
 -rw-r--r-- 1 ramon ramon  300729 Jan  6 02:14 /media/share/data/documents/png/gentoo_-_zerofree_-_empty_free_space1-2.png
 -rw-r--r-- 1 ramon ramon  389581 Jan  6 02:17 /media/share/data/documents/png/gentoo_-_zerofree_-_empty_free_space2-2.png
 -rw-r--r-- 1 ramon ramon 2188715 Jan  7 23:17 /media/share/data/documents/png/gentoo_-_cd-drive_dmesg_-_get_cd_drive_information.png
--rw-r--r-- 1 ramon ramon 2566811 Jan  9 12:44 /media/share/data/documents/png/raspbian_-_retropie_-_upgrade_debian_stretch_to_debian_buster.png
+-rw-r--r-- 1 ramon ramon 1331970 Jan  9 22:16 /media/share/data/documents/png/gentoo_-_bash_-_convert_decimal_to_binary1-2.png
+-rw-r--r-- 1 ramon ramon  773443 Jan  9 22:17 /media/share/data/documents/png/gentoo_-_bash_-_convert_decimal_to_binary2-2.png
+-rw-r--r-- 1 ramon ramon 2569625 Jan 10 15:02 /media/share/data/documents/png/raspbian_-_retropie_-_upgrade_debian_stretch_to_debian_buster.png
+-rw-r--r-- 1 ramon ramon  303317 Jan 10 20:34 /media/share/data/documents/png/gentoo_-_awk_fdisk_-_check_optimal_partition_alignment.png
+-rw-r--r-- 1 ramon ramon  894752 Jan 10 19:27 /media/share/data/documents/png/gentoo_-_parted_-_check_optimal_partition_alignment1-2.png
+-rw-r--r-- 1 ramon ramon  958299 Jan 10 19:27 /media/share/data/documents/png/gentoo_-_parted_-_check_optimal_partition_alignment2-2.png
+-rw-r--r-- 1 ramon ramon 1463090 Jan 16 20:29 /media/share/data/documents/png/gentoo_-_bash_echo_eval_-_use_variables_with_brace_expansion.png
+-rw-r--r-- 1 ramon ramon 1717436 Jan 17 18:44 /media/share/data/documents/png/gentoo_-_bash_-_here-string_here-document_process_substitution2-2.png
+-rw-r--r-- 1 ramon ramon 1749060 Jan 17 18:43 /media/share/data/documents/png/gentoo_-_bash_-_here-string_here-document_process_substitution1-2.png
 ```
