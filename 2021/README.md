@@ -18,4 +18,8 @@
 -rw-r--r-- 1 ramon ramon 1463090 Jan 16 20:29 /media/share/data/documents/png/gentoo_-_bash_echo_eval_-_use_variables_with_brace_expansion.png
 -rw-r--r-- 1 ramon ramon 1717436 Jan 17 18:44 /media/share/data/documents/png/gentoo_-_bash_-_here-string_here-document_process_substitution2-2.png
 -rw-r--r-- 1 ramon ramon 1749060 Jan 17 18:43 /media/share/data/documents/png/gentoo_-_bash_-_here-string_here-document_process_substitution1-2.png
+-rw-r--r-- 1 ramon ramon 2849290 Jan 21 19:00 /media/share/data/documents/png/gentoo_-_git_-_update_all_submodules.png
+-rw-r--r-- 1 ramon ramon 3750435 Jan 21 01:28 /media/share/data/documents/png/gentoo_-_it_is_impossible_to_validate_an_e-mail_address.png
+-rw-r--r-- 1 ramon ramon  517260 Jan 29 20:53 /media/share/data/documents/png/gentoo_-_libreoffice_-_edit_source_of_x-axis.png
+-rw-r--r-- 1 ramon ramon  855437 Feb  1 19:56 /media/share/data/documents/png/gentoo_-_parted_-_msftdata_flag.png
 ```
