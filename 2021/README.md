@@ -29,4 +29,8 @@
 -rw-r--r-- 1 ramon ramon  441082 Feb 22 15:43 /media/share/data/documents/png/gentoo_-_split_-_split_files.png
 -rw-r--r-- 1 ramon ramon  527167 Feb 22 16:12 /media/share/data/documents/png/gentoo_-_ffmpeg_-_audio_formats.png
 -rw-r--r-- 1 ramon ramon 2381127 Feb 25 15:34 /media/share/data/documents/png/debian_-_nginx_-_common_misconfigurations.png
+-rw-r--r-- 1 ramon ramon 1050573 Feb 26 13:50 /media/share/data/documents/png/raspbian_-_ulimit_-_how_to_increase_open_files_limit.png
+-rw-r--r-- 1 ramon ramon  759418 Feb 26 13:50 /media/share/data/documents/png/raspbian_-_lsof_ulimit_-_find_process_causing_too_many_open_files.png
+-rw-r--r-- 1 ramon ramon 2124498 Feb 27 13:32 /media/share/data/documents/png/gentoo_-_vboxmanage_virtualbox_-_how_to_reduce_the_size_of_virtual_hard_drives.png
+-rw-r--r-- 1 ramon ramon  664746 Mar  2 14:55 /media/share/data/documents/png/gentoo_-_emerge_-_downgrade_to_a_package_version_with_revisions.png
 ```
