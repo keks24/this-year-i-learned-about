@@ -33,4 +33,7 @@
 -rw-r--r-- 1 ramon ramon  759418 Feb 26 13:50 /media/share/data/documents/png/raspbian_-_lsof_ulimit_-_find_process_causing_too_many_open_files.png
 -rw-r--r-- 1 ramon ramon 2124498 Feb 27 13:32 /media/share/data/documents/png/gentoo_-_vboxmanage_virtualbox_-_how_to_reduce_the_size_of_virtual_hard_drives.png
 -rw-r--r-- 1 ramon ramon  664746 Mar  2 14:55 /media/share/data/documents/png/gentoo_-_emerge_-_downgrade_to_a_package_version_with_revisions.png
+-rw-r--r-- 1 ramon ramon 1013180 Mar  4 20:02 /media/share/data/documents/png/raspbian_-_cron_rsyslog_-_debug_cron_jobs.png
+-rw-r--r-- 1 ramon ramon 1890949 Mar  4 18:03 /media/share/data/documents/png/raspbian_-_fswebcam_-_create_screenshots_with_a_standard_usb_webcam.png
+-rw-r--r-- 1 ramon ramon 1471202 Mar  6 19:38 /media/share/data/documents/png/ps3_-_sixaxis_home_button_led_mod.png
 ```
