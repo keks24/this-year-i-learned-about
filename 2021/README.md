@@ -36,4 +36,10 @@
 -rw-r--r-- 1 ramon ramon 1013180 Mar  4 20:02 /media/share/data/documents/png/raspbian_-_cron_rsyslog_-_debug_cron_jobs.png
 -rw-r--r-- 1 ramon ramon 1890949 Mar  4 18:03 /media/share/data/documents/png/raspbian_-_fswebcam_-_create_screenshots_with_a_standard_usb_webcam.png
 -rw-r--r-- 1 ramon ramon 1471202 Mar  6 19:38 /media/share/data/documents/png/ps3_-_sixaxis_home_button_led_mod.png
+-rw-r--r-- 1 ramon ramon  538982 Mar  7 14:51 /media/share/data/documents/png/gentoo_-_unsquashfs_-_unarchive_squashfs_file.png
+-rw-r--r-- 1 ramon ramon  538982 Mar  7 14:55 /media/share/data/documents/png/gentoo_-_mount_unsquashfs_-_unarchive_squashfs_file.png
+-rw-r--r-- 1 ramon ramon  271259 Mar 13 17:44 /media/share/data/documents/png/gentoo_-_ffmpeg_-_interactive_hotkeys.png
+-rw-r--r-- 1 ramon ramon  952850 Mar 14 02:26 /media/share/data/documents/png/gentoo_-_sudo_-_deny_executing_certain_commands.png
+-rw-r--r-- 1 ramon ramon  520776 Mar 17 15:51 /media/share/data/documents/png/gentoo_-_fallocate_-_is_it_save_to_zero_out_free_space_on_a_live_system.png
+-rw-r--r-- 1 ramon ramon  856931 Mar 17 15:49 /media/share/data/documents/png/gentoo_-_fallocate_-_difference_between_dig_holes_and_punch_holes.png
 ```
