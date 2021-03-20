@@ -40,6 +40,15 @@
 -rw-r--r-- 1 ramon ramon  538982 Mar  7 14:55 /media/share/data/documents/png/gentoo_-_mount_unsquashfs_-_unarchive_squashfs_file.png
 -rw-r--r-- 1 ramon ramon  271259 Mar 13 17:44 /media/share/data/documents/png/gentoo_-_ffmpeg_-_interactive_hotkeys.png
 -rw-r--r-- 1 ramon ramon  952850 Mar 14 02:26 /media/share/data/documents/png/gentoo_-_sudo_-_deny_executing_certain_commands.png
+-rw-r--r-- 1 ramon ramon 1082695 Mar 17 22:43 /media/share/data/documents/png/raspbian_-_cryptsetup-initramfs_cryptsetup_-_include_binary_in_the_initramfs.png
+-rw-r--r-- 1 ramon ramon 1524308 Mar 17 21:29 /media/share/data/documents/png/raspbian_-_config.txt1-2.png
+-rw-r--r-- 1 ramon ramon  308604 Mar 17 21:34 /media/share/data/documents/png/raspbian_-_cmdline.txt1-2.png
+-rw-r--r-- 1 ramon ramon 3403801 Mar 17 21:34 /media/share/data/documents/png/raspbian_-_config.txt2-2.png
 -rw-r--r-- 1 ramon ramon  520776 Mar 17 15:51 /media/share/data/documents/png/gentoo_-_fallocate_-_is_it_save_to_zero_out_free_space_on_a_live_system.png
+-rw-r--r-- 1 ramon ramon  576946 Mar 17 21:35 /media/share/data/documents/png/raspbian_-_cmdline.txt2-2.png
+-rw-r--r-- 1 ramon ramon  811051 Mar 17 16:09 /media/share/data/documents/png/debian_-_cgit_-_self-hosted_git_server.png
 -rw-r--r-- 1 ramon ramon  856931 Mar 17 15:49 /media/share/data/documents/png/gentoo_-_fallocate_-_difference_between_dig_holes_and_punch_holes.png
+-rw-r--r-- 1 ramon ramon  896944 Mar 17 21:56 /media/share/data/documents/png/raspbian_-_cryptsetup_-_xts_vs._aes-cbc_encryption.png
+-rw-r--r-- 1 ramon ramon  765709 Mar 18 18:16 /media/share/data/documents/png/raspbian_-_cpio_unmkinitramfs_-_unarchive_initramfs.png
+-rw-r--r-- 1 ramon ramon 1243591 Mar 20 19:09 /media/share/data/documents/png/raspbian_-_cryptsetup_losetup_mkinitramfs_-_encrypt_root_partition.png
 ```
