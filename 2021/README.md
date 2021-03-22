@@ -50,5 +50,9 @@
 -rw-r--r-- 1 ramon ramon  856931 Mar 17 15:49 /media/share/data/documents/png/gentoo_-_fallocate_-_difference_between_dig_holes_and_punch_holes.png
 -rw-r--r-- 1 ramon ramon  896944 Mar 17 21:56 /media/share/data/documents/png/raspbian_-_cryptsetup_-_xts_vs._aes-cbc_encryption.png
 -rw-r--r-- 1 ramon ramon  765709 Mar 18 18:16 /media/share/data/documents/png/raspbian_-_cpio_unmkinitramfs_-_unarchive_initramfs.png
--rw-r--r-- 1 ramon ramon 1243591 Mar 20 19:09 /media/share/data/documents/png/raspbian_-_cryptsetup_losetup_mkinitramfs_-_encrypt_root_partition.png
+-rw-r--r-- 1 ramon ramon 1243591 Mar 20 19:09 /media/share/data/documents/png/raspbian_-_cryptsetup_dropbear_losetup_mkinitramfs_-_encrypt_root_partition1-4.png
+-rw-r--r-- 1 ramon ramon 1523732 Mar 20 19:43 /media/share/data/documents/png/raspbian_-_cryptsetup_dropbear_losetup_mkinitramfs_-_encrypt_root_partition2-4.png
+-rw-r--r-- 1 ramon ramon 2327984 Mar 20 21:44 /media/share/data/documents/png/raspbian_-_cryptsetup_dropbear_losetup_mkinitramfs_-_encrypt_root_partition4-4.png
+-rw-r--r-- 1 ramon ramon  399106 Mar 20 22:10 /media/share/data/documents/png/raspbian_-_cryptsetup_dropbear_losetup_mkinitramfs_-_encrypt_root_partition3-4.png
+-rw-r--r-- 1 ramon ramon  664956 Mar 20 22:41 /media/share/data/documents/png/raspbian_-_setarch_-_run_program_with_fake_cpu_architecture.png
 ```
