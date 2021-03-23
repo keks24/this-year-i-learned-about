@@ -6,6 +6,7 @@ a totally inaccurate list of things i learned within a year. the dark figure is 
 * [2018](2018/README.md)
 * [2019](2019/README.md)
 * [2020](2020/README.md)
+* [2021](2021/README.md)
 
 # example command to generate a list
 ```bash
