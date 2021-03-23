@@ -55,4 +55,6 @@
 -rw-r--r-- 1 ramon ramon 2327984 Mar 20 21:44 /media/share/data/documents/png/raspbian_-_cryptsetup_dropbear_losetup_mkinitramfs_-_encrypt_root_partition4-4.png
 -rw-r--r-- 1 ramon ramon  399106 Mar 20 22:10 /media/share/data/documents/png/raspbian_-_cryptsetup_dropbear_losetup_mkinitramfs_-_encrypt_root_partition3-4.png
 -rw-r--r-- 1 ramon ramon  664956 Mar 20 22:41 /media/share/data/documents/png/raspbian_-_setarch_-_run_program_with_fake_cpu_architecture.png
+-rw-r--r-- 1 ramon ramon  868280 Mar 23 21:04 /media/share/data/documents/png/raspbian_-_cryptsetup_resize2fs_-_extend_partition.png
+-rw-r--r-- 1 ramon ramon  960936 Mar 23 20:26 /media/share/data/documents/png/gentoo_-_dd_-_use_built-in_sync.png
 ```
