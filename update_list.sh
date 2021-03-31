@@ -18,16 +18,16 @@ readme_file="${directory_path}/${markdown_filename}"
 if ! beQuiet "" "mountpoint ${mount_point}"
 then
     /bin/mount "${mount_point}"
-else
-    if [[ ! -f "${directory_path}" ]]
-    then
-        /bin/mkdir --parents "${directory_path}"
-    fi
-
-    echo -e "# ${current_year}\n" > "${readme_file}"
-    echo '```no-highlight' >> "${readme_file}"
-    /usr/bin/find "${document_directory}" -type f -name "*.png" -newermt "${current_year}${first_month}${first_day}" -and -not -newermt "$(( ${current_year} + 1 ))${first_month}${first_day}" -exec /bin/ls -l "{}" + | /usr/bin/sort --key="6,6M" --key="7,7n" >> "${readme_file}"
-    echo '```' >> "${readme_file}"
-
-    /bin/umount "${mount_point}"
 fi
+
+if [[ ! -f "${directory_path}" ]]
+then
+    /bin/mkdir --parents "${directory_path}"
+fi
+
+echo -e "# ${current_year}\n" > "${readme_file}"
+echo '```no-highlight' >> "${readme_file}"
+/usr/bin/find "${document_directory}" -type f -name "*.png" -newermt "${current_year}${first_month}${first_day}" -and -not -newermt "$(( ${current_year} + 1 ))${first_month}${first_day}" -exec /bin/ls -l "{}" + | /usr/bin/sort --key="6,6M" --key="7,7n" >> "${readme_file}"
+echo '```' >> "${readme_file}"
+
+/bin/umount "${mount_point}"
