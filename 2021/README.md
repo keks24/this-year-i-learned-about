@@ -57,4 +57,9 @@
 -rw-r--r-- 1 ramon ramon  664956 Mar 20 22:41 /media/share/data/documents/png/raspbian_-_setarch_-_run_program_with_fake_cpu_architecture.png
 -rw-r--r-- 1 ramon ramon  868280 Mar 23 21:04 /media/share/data/documents/png/raspbian_-_cryptsetup_resize2fs_-_extend_partition.png
 -rw-r--r-- 1 ramon ramon  960936 Mar 23 20:26 /media/share/data/documents/png/gentoo_-_dd_-_use_built-in_sync.png
+-rw-r--r-- 1 ramon ramon 1150279 Mar 24 14:32 /media/share/data/documents/png/gentoo_-_how_to_combine_multiple_license_notes_into_a_single_file.png
+-rw-r--r-- 1 ramon ramon 1020530 Mar 25 00:54 /media/share/data/documents/png/gentoo_-_ctorrent_mktorrent_py3torrentcreator_transmission-create_-_create_torrents.png
+-rw-r--r-- 1 ramon ramon 1909783 Mar 25 00:50 /media/share/data/documents/png/gentoo_-_mktorrent_-_how_to_create_a_torrent.png
+-rw-r--r-- 1 ramon ramon 1316464 Mar 30 21:11 /media/share/data/documents/png/gentoo_-_how_to_choose_the_most_optimal_filesystem.png
+-rw-r--r-- 1 ramon ramon  751425 Mar 31 12:01 /media/share/data/documents/png/gentoo_-_vboxmanage_-_how_to_attach_a_usb_device.png
 ```
