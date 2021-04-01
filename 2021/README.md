@@ -61,5 +61,15 @@
 -rw-r--r-- 1 ramon ramon 1020530 Mar 25 00:54 /media/share/data/documents/png/gentoo_-_ctorrent_mktorrent_py3torrentcreator_transmission-create_-_create_torrents.png
 -rw-r--r-- 1 ramon ramon 1909783 Mar 25 00:50 /media/share/data/documents/png/gentoo_-_mktorrent_-_how_to_create_a_torrent.png
 -rw-r--r-- 1 ramon ramon 1316464 Mar 30 21:11 /media/share/data/documents/png/gentoo_-_how_to_choose_the_most_optimal_filesystem.png
+-rw-r--r-- 1 ramon ramon 2747683 Mar 31 12:29 /media/share/data/documents/png/gentoo_-_badblocks_e2fsck_smartctl_-_diagnose_current_pending_sector_and_reallocated_sector_ct1-2.png
+-rw-r--r-- 1 ramon ramon  306392 Mar 31 14:44 /media/share/data/documents/png/raspbian_-_firmeware_warning_icons.png
+-rw-r--r-- 1 ramon ramon 3156018 Mar 31 21:39 /media/share/data/documents/png/gentoo_-_badblocks_e2fsck_smartctl_-_diagnose_current_pending_sector_and_reallocated_sector_ct2-2.png
+-rw-r--r-- 1 ramon ramon 3232673 Mar 31 15:08 /media/share/data/documents/png/raspbian_-_raspberry_pi_admits_to_faulty_usb-c_design_on_the_pi_4.png
+-rw-r--r-- 1 ramon ramon  514160 Mar 31 14:29 /media/share/data/documents/png/raspbian_-_power_consumption_overview3-4.png
+-rw-r--r-- 1 ramon ramon  647141 Mar 31 14:35 /media/share/data/documents/png/raspbian_-_power_consumption_overview4-4.png
+-rw-r--r-- 1 ramon ramon 6621653 Mar 31 14:13 /media/share/data/documents/png/raspbian_-_power_consumption_overview1-4.png
+-rw-r--r-- 1 ramon ramon 7261440 Mar 31 15:07 /media/share/data/documents/png/raspbian_-_determine_circuit_board_revision.png
 -rw-r--r-- 1 ramon ramon  751425 Mar 31 12:01 /media/share/data/documents/png/gentoo_-_vboxmanage_-_how_to_attach_a_usb_device.png
+-rw-r--r-- 1 ramon ramon 9261437 Mar 31 14:16 /media/share/data/documents/png/raspbian_-_power_consumption_overview2-4.png
+-rw-r--r-- 1 ramon ramon  650719 Apr  1 14:04 /media/share/data/documents/png/raspbian_-_f3_-_test_sd_cards_properly_via_fight_flash_fraud.png
 ```
