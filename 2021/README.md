@@ -71,5 +71,9 @@
 -rw-r--r-- 1 ramon ramon 7261440 Mar 31 15:07 /media/share/data/documents/png/raspbian_-_determine_circuit_board_revision.png
 -rw-r--r-- 1 ramon ramon  751425 Mar 31 12:01 /media/share/data/documents/png/gentoo_-_vboxmanage_-_how_to_attach_a_usb_device.png
 -rw-r--r-- 1 ramon ramon 9261437 Mar 31 14:16 /media/share/data/documents/png/raspbian_-_power_consumption_overview2-4.png
+-rw-r--r-- 1 ramon ramon 1663595 Apr  1 20:16 /media/share/data/documents/png/gentoo_-_git-lfs_-_how_to_use_large_file_storage.png
 -rw-r--r-- 1 ramon ramon  650719 Apr  1 14:04 /media/share/data/documents/png/raspbian_-_f3_-_test_sd_cards_properly_via_fight_flash_fraud.png
+-rw-r--r-- 1 ramon ramon 1760409 Apr  3 12:04 /media/share/data/documents/png/raspbian_-_calculate_wattage_with_power_supply_efficiency1-2.png
+-rw-r--r-- 1 ramon ramon 5184905 Apr  3 12:16 /media/share/data/documents/png/raspbian_-_calculate_wattage_with_power_supply_efficiency2-2.png
+-rw-r--r-- 1 ramon ramon  595655 Apr  3 10:08 /media/share/data/documents/png/gentoo_-_neovim_ps2pdf_-_print_text_file.png
 ```
