@@ -78,6 +78,13 @@
 -rw-r--r-- 1 ramon ramon  595655 Apr  3 10:08 /media/share/data/documents/png/gentoo_-_neovim_ps2pdf_-_print_text_file.png
 -rw-r--r-- 1 ramon ramon  872700 Apr  4 17:44 /media/share/data/documents/png/1miscellaneous/android_-_restore_contacts.png
 -rw-r--r-- 1 ramon ramon  719872 Apr  5 19:15 /media/share/data/documents/png/gentoo_-_bash_-_use_parameter_expansion_to_cut_string_in_half.png
+-rw-r--r-- 1 ramon ramon 1053883 Apr  6 23:29 /media/share/data/documents/png/gentoo_-_awk_-_pass_shell_variable_as_pattern2-2.png
+-rw-r--r-- 1 ramon ramon 1817815 Apr  6 23:28 /media/share/data/documents/png/gentoo_-_awk_-_pass_shell_variable_as_pattern1-2.png
+-rw-r--r-- 1 ramon ramon  315056 Apr  6 23:51 /media/share/data/documents/png/gentoo_-_awk_-_scanning_all_elements_of_an_array.png
 -rw-r--r-- 1 ramon ramon  322302 Apr  6 18:29 /media/share/data/documents/png/gentoo_-_virtualbox_-_let_vrde_listen_to_localhost_only.png
+-rw-r--r-- 1 ramon ramon  323281 Apr  6 23:31 /media/share/data/documents/png/gentoo_-_awk_-_the_for_statement.png
+-rw-r--r-- 1 ramon ramon  338096 Apr  6 22:12 /media/share/data/documents/png/gentoo_-_proc_partitions.png
+-rw-r--r-- 1 ramon ramon  634559 Apr  6 23:50 /media/share/data/documents/png/gentoo_-_awk_-_arrays.png
 -rw-r--r-- 1 ramon ramon  807052 Apr  6 17:38 /media/share/data/documents/png/gentoo_-_virtualbox_vboxmanage_-_how_to_attach_guest_addtions_dvd.png
+-rw-r--r-- 1 ramon ramon 1340309 Apr  7 02:30 /media/share/data/documents/png/gentoo_-_awk_-_output_coloured_text_via_printf.png
 ```
