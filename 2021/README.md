@@ -86,5 +86,8 @@
 -rw-r--r-- 1 ramon ramon  338096 Apr  6 22:12 /media/share/data/documents/png/gentoo_-_proc_partitions.png
 -rw-r--r-- 1 ramon ramon  634559 Apr  6 23:50 /media/share/data/documents/png/gentoo_-_awk_-_arrays.png
 -rw-r--r-- 1 ramon ramon  807052 Apr  6 17:38 /media/share/data/documents/png/gentoo_-_virtualbox_vboxmanage_-_how_to_attach_guest_addtions_dvd.png
+-rw-r--r-- 1 ramon ramon 1075956 Apr  7 16:11 /media/share/data/documents/png/gentoo_-_how_to_verify_hard_drive_partition_alignment.png
 -rw-r--r-- 1 ramon ramon 1340309 Apr  7 02:30 /media/share/data/documents/png/gentoo_-_awk_-_output_coloured_text_via_printf.png
+-rw-r--r-- 1 ramon ramon 1375376 Apr  7 13:12 /media/share/data/documents/png/gentoo_-_bc_-_how_is_the_modulo_with_scale_other_than_0_useful.png
+-rw-r--r-- 1 ramon ramon 1821621 Apr  7 13:07 /media/share/data/documents/png/gentoo_-_bc_-_calculate_modulo.png
 ```
