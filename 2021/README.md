@@ -90,4 +90,6 @@
 -rw-r--r-- 1 ramon ramon 1340309 Apr  7 02:30 /media/share/data/documents/png/gentoo_-_awk_-_output_coloured_text_via_printf.png
 -rw-r--r-- 1 ramon ramon 1375376 Apr  7 13:12 /media/share/data/documents/png/gentoo_-_bc_-_how_is_the_modulo_with_scale_other_than_0_useful.png
 -rw-r--r-- 1 ramon ramon 1821621 Apr  7 13:07 /media/share/data/documents/png/gentoo_-_bc_-_calculate_modulo.png
+-rw-r--r-- 1 ramon ramon 2195930 Apr  8 20:23 /media/share/data/documents/png/raspbian_-_pinout_-_display_gpio_pinout.png
+-rw-r--r-- 1 ramon ramon  538868 Apr  8 15:56 /media/share/data/documents/png/raspbian_-_ssh_-_how_to_enable_ssh_on_a_headless_raspberry_pi_from_another_device.png
 ```
