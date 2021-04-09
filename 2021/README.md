@@ -92,4 +92,6 @@
 -rw-r--r-- 1 ramon ramon 1821621 Apr  7 13:07 /media/share/data/documents/png/gentoo_-_bc_-_calculate_modulo.png
 -rw-r--r-- 1 ramon ramon 2195930 Apr  8 20:23 /media/share/data/documents/png/raspbian_-_pinout_-_display_gpio_pinout.png
 -rw-r--r-- 1 ramon ramon  538868 Apr  8 15:56 /media/share/data/documents/png/raspbian_-_ssh_-_how_to_enable_ssh_on_a_headless_raspberry_pi_from_another_device.png
+-rw-r--r-- 1 ramon ramon 2773992 Apr  9 21:20 /media/share/data/documents/png/gentoo_-_dumpe2fs_tune2fs_debugfs_-_analyse_hard_filesystem_information.png
+-rw-r--r-- 1 ramon ramon 3216000 Apr  9 21:04 /media/share/data/documents/png/gentoo_-_optimal_logcial_sector_alignment_for_hard_drive_partitions.png
 ```
