@@ -94,4 +94,12 @@
 -rw-r--r-- 1 ramon ramon  538868 Apr  8 15:56 /media/share/data/documents/png/raspbian_-_ssh_-_how_to_enable_ssh_on_a_headless_raspberry_pi_from_another_device.png
 -rw-r--r-- 1 ramon ramon 2773992 Apr  9 21:20 /media/share/data/documents/png/gentoo_-_dumpe2fs_tune2fs_debugfs_-_analyse_hard_filesystem_information.png
 -rw-r--r-- 1 ramon ramon 3216000 Apr  9 21:04 /media/share/data/documents/png/gentoo_-_optimal_logcial_sector_alignment_for_hard_drive_partitions.png
+-rw-r--r-- 1 ramon ramon  575151 Apr 10 15:43 /media/share/data/documents/png/gentoo_-_bash_zsh_-_keyboard_shortcuts.png
+-rw-r--r-- 1 ramon ramon 1240468 Apr 11 00:41 /media/share/data/documents/png/raspbian_-_dbus-uuidgen_systemd-machine-id-setup_systemd-firstboot_-_generate_new_machine_id.png
+-rw-r--r-- 1 ramon ramon 4259981 Apr 11 21:49 /media/share/data/documents/png/gentoo_-_smartctl_-_how_to_interpret_smart_values_of_seagate_hard_drives.png
+-rw-r--r-- 1 ramon ramon  755463 Apr 11 18:50 /media/share/data/documents/png/windows_-_how_to_disable_windows_7_updates.png
+-rw-r--r-- 1 ramon ramon 1618270 Apr 13 12:31 /media/share/data/documents/png/gentoo_-_tmux_-_bind_keys_for_vim_style_copy_paste_from_the_buffer.png
+-rw-r--r-- 1 ramon ramon  558882 Apr 13 11:30 /media/share/data/documents/png/gentoo_-_tmux_-_copy_text_from_buffer.png
+-rw-r--r-- 1 ramon ramon  432136 Apr 16 18:24 /media/share/data/documents/png/raspbian_-_gpio_-_protect_gpio_header_pins_with_a_zener_diode.png
+-rw-r--r-- 1 ramon ramon  962271 Apr 16 18:20 /media/share/data/documents/png/raspbian_-_gpio_-_connect_leds_directly_to_a_gpio_header_pin.png
 ```
