@@ -100,6 +100,11 @@
 -rw-r--r-- 1 ramon ramon  755463 Apr 11 18:50 /media/share/data/documents/png/windows_-_how_to_disable_windows_7_updates.png
 -rw-r--r-- 1 ramon ramon 1618270 Apr 13 12:31 /media/share/data/documents/png/gentoo_-_tmux_-_bind_keys_for_vim_style_copy_paste_from_the_buffer.png
 -rw-r--r-- 1 ramon ramon  558882 Apr 13 11:30 /media/share/data/documents/png/gentoo_-_tmux_-_copy_text_from_buffer.png
+-rw-r--r-- 1 ramon ramon  205981 Apr 16 19:50 /media/share/data/documents/png/1miscellaneous/samsung_ue40h5570_-_access_service_menu.png
 -rw-r--r-- 1 ramon ramon  432136 Apr 16 18:24 /media/share/data/documents/png/raspbian_-_gpio_-_protect_gpio_header_pins_with_a_zener_diode.png
 -rw-r--r-- 1 ramon ramon  962271 Apr 16 18:20 /media/share/data/documents/png/raspbian_-_gpio_-_connect_leds_directly_to_a_gpio_header_pin.png
+-rw-r--r-- 1 ramon ramon 1078649 Apr 17 01:10 /media/share/data/documents/png/raspbian_-_conditional_filters_in_config.txt.png
+-rw-r--r-- 1 ramon ramon 1480710 Apr 17 01:06 /media/share/data/documents/png/raspbian_-_raspi-config_-_configure_bootloader_on_eeprom.png
+-rw-r--r-- 1 ramon ramon 1701163 Apr 17 18:22 /media/share/data/documents/png/gentoo_-_shnsplit_shntool_-_split_flac_file_with_cue_file.png
+-rw-r--r-- 1 ramon ramon  251351 Apr 17 01:03 /media/share/data/documents/png/raspbian_-_led_warning_flash_codes.png
 ```
