@@ -41,9 +41,7 @@
 -rw-r--r-- 1 ramon ramon   271259 Mar 13 17:44 /media/share/data/documents/png/gentoo_-_ffmpeg_-_interactive_hotkeys.png
 -rw-r--r-- 1 ramon ramon   952850 Mar 14 02:26 /media/share/data/documents/png/gentoo_-_sudo_-_deny_executing_certain_commands.png
 -rw-r--r-- 1 ramon ramon  1082695 Mar 17 22:43 /media/share/data/documents/png/raspbian_-_cryptsetup-initramfs_cryptsetup_-_include_binary_in_the_initramfs.png
--rw-r--r-- 1 ramon ramon  1524308 Mar 17 21:29 /media/share/data/documents/png/raspbian_-_config.txt1-2.png
 -rw-r--r-- 1 ramon ramon   308604 Mar 17 21:34 /media/share/data/documents/png/raspbian_-_cmdline.txt1-2.png
--rw-r--r-- 1 ramon ramon  3403801 Mar 17 21:34 /media/share/data/documents/png/raspbian_-_config.txt2-2.png
 -rw-r--r-- 1 ramon ramon   520776 Mar 17 15:51 /media/share/data/documents/png/gentoo_-_fallocate_-_is_it_save_to_zero_out_free_space_on_a_live_system.png
 -rw-r--r-- 1 ramon ramon   576946 Mar 17 21:35 /media/share/data/documents/png/raspbian_-_cmdline.txt2-2.png
 -rw-r--r-- 1 ramon ramon   811051 Mar 17 16:09 /media/share/data/documents/png/debian_-_cgit_-_self-hosted_git_server.png
@@ -110,6 +108,8 @@
 -rw-r--r-- 1 ramon ramon   403754 Apr 18 18:40 /media/share/data/documents/png/raspbian_-_kodi_-_install_kodi.png
 -rw-r--r-- 1 ramon ramon 11105329 Apr 20 17:53 /media/share/data/documents/png/raspbian_-_gpio_pigpio_pigpiod_pigs_sysfs_wiringpi_-_control_gpio_header_pins2-4.png
 -rw-r--r-- 1 ramon ramon  1491465 Apr 20 13:08 /media/share/data/documents/png/raspbian_-_gpio_pigpio_pigpiod_pigs_sysfs_wiringpi_-_control_gpio_header_pins1-4.png
+-rw-r--r-- 1 ramon ramon  1524308 Apr 20 19:15 /media/share/data/documents/png/raspbian_-_config.txt1-2.png
+-rw-r--r-- 1 ramon ramon  3403801 Apr 20 19:15 /media/share/data/documents/png/raspbian_-_config.txt2-2.png
 -rw-r--r-- 1 ramon ramon   536090 Apr 20 19:10 /media/share/data/documents/png/raspbian_-_gpio_pigpio_pigpiod_pigs_sysfs_wiringpi_-_control_gpio_header_pins3-4.png
 -rw-r--r-- 1 ramon ramon   589300 Apr 20 19:11 /media/share/data/documents/png/raspbian_-_gpio_pigpio_pigpiod_pigs_sysfs_wiringpi_-_control_gpio_header_pins4-4.png
 ```
