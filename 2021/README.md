@@ -107,9 +107,12 @@
 -rw-r--r-- 1 ramon ramon   251351 Apr 17 01:03 /media/share/data/documents/png/raspbian_-_led_warning_flash_codes.png
 -rw-r--r-- 1 ramon ramon   403754 Apr 18 18:40 /media/share/data/documents/png/raspbian_-_kodi_-_install_kodi.png
 -rw-r--r-- 1 ramon ramon 11105329 Apr 20 17:53 /media/share/data/documents/png/raspbian_-_gpio_pigpio_pigpiod_pigs_sysfs_wiringpi_-_control_gpio_header_pins2-4.png
+-rw-r--r-- 1 ramon ramon  1342544 Apr 20 19:59 /media/share/data/documents/png/raspbian_-_sysfs_-_control_pwr_and_act_leds.png
 -rw-r--r-- 1 ramon ramon  1491465 Apr 20 13:08 /media/share/data/documents/png/raspbian_-_gpio_pigpio_pigpiod_pigs_sysfs_wiringpi_-_control_gpio_header_pins1-4.png
 -rw-r--r-- 1 ramon ramon  1524308 Apr 20 19:15 /media/share/data/documents/png/raspbian_-_config.txt1-2.png
 -rw-r--r-- 1 ramon ramon  3403801 Apr 20 19:15 /media/share/data/documents/png/raspbian_-_config.txt2-2.png
 -rw-r--r-- 1 ramon ramon   536090 Apr 20 19:10 /media/share/data/documents/png/raspbian_-_gpio_pigpio_pigpiod_pigs_sysfs_wiringpi_-_control_gpio_header_pins3-4.png
 -rw-r--r-- 1 ramon ramon   589300 Apr 20 19:11 /media/share/data/documents/png/raspbian_-_gpio_pigpio_pigpiod_pigs_sysfs_wiringpi_-_control_gpio_header_pins4-4.png
+-rw-r--r-- 1 ramon ramon  1137646 Apr 22 09:25 /media/share/data/documents/png/raspbian_-_exploring_the_3.3v_power_rail.png
+-rw-r--r-- 1 ramon ramon   913022 Apr 22 09:27 /media/share/data/documents/png/raspbian_-_running_a_5v_fan_on_3.3v_power_rail_or_gpio.png
 ```
