@@ -114,5 +114,10 @@
 -rw-r--r-- 1 ramon ramon   536090 Apr 20 19:10 /media/share/data/documents/png/raspbian_-_gpio_pigpio_pigpiod_pigs_sysfs_wiringpi_-_control_gpio_header_pins3-4.png
 -rw-r--r-- 1 ramon ramon   589300 Apr 20 19:11 /media/share/data/documents/png/raspbian_-_gpio_pigpio_pigpiod_pigs_sysfs_wiringpi_-_control_gpio_header_pins4-4.png
 -rw-r--r-- 1 ramon ramon  1137646 Apr 22 09:25 /media/share/data/documents/png/raspbian_-_exploring_the_3.3v_power_rail.png
+-rw-r--r-- 1 ramon ramon  1288859 Apr 22 22:17 /media/share/data/documents/png/gentoo_-_ssh_-_use_multiple_configuration_files.png
+-rw-r--r-- 1 ramon ramon  4585720 Apr 22 22:16 /media/share/data/documents/png/gentoo_-_neovim_-_modelines.png
 -rw-r--r-- 1 ramon ramon   913022 Apr 22 09:27 /media/share/data/documents/png/raspbian_-_running_a_5v_fan_on_3.3v_power_rail_or_gpio.png
+-rw-r--r-- 1 ramon ramon  1067367 Apr 23 12:35 /media/share/data/documents/png/gentoo_-_fio_sg3_utils_-_determine_if_hard_drive_uses_smr.png
+-rw-r--r-- 1 ramon ramon  1311006 Apr 23 13:05 /media/share/data/documents/png/gentoo_-_determine_best_suited_recording_technology_shingled_magentic_recording_(smr)_conventional_magnetic_recording_(cmr_pmr).png
+-rw-r--r-- 1 ramon ramon   827365 Apr 23 12:31 /media/share/data/documents/png/gentoo_-_lsblk_-_determine_if_hard_drive_supports_trim_command.png
 ```
