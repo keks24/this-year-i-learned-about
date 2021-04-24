@@ -117,7 +117,10 @@
 -rw-r--r-- 1 ramon ramon  1288859 Apr 22 22:17 /media/share/data/documents/png/gentoo_-_ssh_-_use_multiple_configuration_files.png
 -rw-r--r-- 1 ramon ramon  4585720 Apr 22 22:16 /media/share/data/documents/png/gentoo_-_neovim_-_modelines.png
 -rw-r--r-- 1 ramon ramon   913022 Apr 22 09:27 /media/share/data/documents/png/raspbian_-_running_a_5v_fan_on_3.3v_power_rail_or_gpio.png
--rw-r--r-- 1 ramon ramon  1067367 Apr 23 12:35 /media/share/data/documents/png/gentoo_-_fio_sg3_utils_-_determine_if_hard_drive_uses_smr.png
 -rw-r--r-- 1 ramon ramon  1311006 Apr 23 13:05 /media/share/data/documents/png/gentoo_-_determine_best_suited_recording_technology_shingled_magentic_recording_(smr)_conventional_magnetic_recording_(cmr_pmr).png
 -rw-r--r-- 1 ramon ramon   827365 Apr 23 12:31 /media/share/data/documents/png/gentoo_-_lsblk_-_determine_if_hard_drive_supports_trim_command.png
+-rw-r--r-- 1 ramon ramon   910679 Apr 23 13:17 /media/share/data/documents/png/gentoo_-_fio_fstrim_sg3_utils_-_determine_if_hard_drive_uses_smr.png
+-rw-r--r-- 1 ramon ramon  1047464 Apr 24 02:19 /media/share/data/documents/png/raspbian_-_turn_off_power,_action_and_ethernet_leds.png
+-rw-r--r-- 1 ramon ramon  4458143 Apr 24 01:39 /media/share/data/documents/png/raspbian_-_device_tree_overlays2-2.png
+-rw-r--r-- 1 ramon ramon  6131932 Apr 24 01:39 /media/share/data/documents/png/raspbian_-_device_tree_overlays1-2.png
 ```
