@@ -123,4 +123,6 @@
 -rw-r--r-- 1 ramon ramon  1047464 Apr 24 02:19 /media/share/data/documents/png/raspbian_-_turn_off_power,_action_and_ethernet_leds.png
 -rw-r--r-- 1 ramon ramon  4458143 Apr 24 01:39 /media/share/data/documents/png/raspbian_-_device_tree_overlays2-2.png
 -rw-r--r-- 1 ramon ramon  6131932 Apr 24 01:39 /media/share/data/documents/png/raspbian_-_device_tree_overlays1-2.png
+-rw-r--r-- 1 ramon ramon  1190787 Apr 25 14:01 /media/share/data/documents/png/raspbian_-_unmkinitramfs_-_unarchive_a_compressed_initramfs_directly_to_a_directory.png
+-rw-r--r-- 1 ramon ramon  1525649 Apr 25 14:00 /media/share/data/documents/png/raspbian_-_useless_use_awards.png
 ```
