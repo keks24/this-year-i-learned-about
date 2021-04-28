@@ -125,4 +125,7 @@
 -rw-r--r-- 1 ramon ramon  6131932 Apr 24 01:39 /media/share/data/documents/png/raspbian_-_device_tree_overlays1-2.png
 -rw-r--r-- 1 ramon ramon  1190787 Apr 25 14:01 /media/share/data/documents/png/raspbian_-_unmkinitramfs_-_unarchive_a_compressed_initramfs_directly_to_a_directory.png
 -rw-r--r-- 1 ramon ramon  1525649 Apr 25 14:00 /media/share/data/documents/png/raspbian_-_useless_use_awards.png
+-rw-r--r-- 1 ramon ramon  2505341 Apr 26 18:17 /media/share/data/documents/png/raspbian_-_rpi-eeprom-config_-_change_boot_order_in_eeprom_bootloader.png
+-rw-r--r-- 1 ramon ramon   632098 Apr 26 17:56 /media/share/data/documents/png/gentoo_-_chromium_-_force_dark_mode_on_all_websites.png
+-rw-r--r-- 1 ramon ramon  1265377 Apr 28 20:44 /media/share/data/documents/png/gentoo_-_tar_-_how_to_extract_certain_files_from_an_archive.png
 ```
