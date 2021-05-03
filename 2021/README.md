@@ -94,7 +94,7 @@
 -rw-r--r-- 1 ramon ramon  3216000 Apr  9 21:04 /media/share/data/documents/png/gentoo_-_optimal_logcial_sector_alignment_for_hard_drive_partitions.png
 -rw-r--r-- 1 ramon ramon   575151 Apr 10 15:43 /media/share/data/documents/png/gentoo_-_bash_zsh_-_keyboard_shortcuts.png
 -rw-r--r-- 1 ramon ramon  1240468 Apr 11 00:41 /media/share/data/documents/png/raspbian_-_dbus-uuidgen_systemd-machine-id-setup_systemd-firstboot_-_generate_new_machine_id.png
--rw-r--r-- 1 ramon ramon  4259981 Apr 11 21:49 /media/share/data/documents/png/gentoo_-_smartctl_-_how_to_interpret_smart_values_of_seagate_hard_drives.png
+-rw-r--r-- 1 ramon ramon  4259981 Apr 11 21:49 /media/share/data/documents/png/gentoo_-_smartctl_-_how_to_interpret_smart_values_of_seagate_hard_drives1-2.png
 -rw-r--r-- 1 ramon ramon   755463 Apr 11 18:50 /media/share/data/documents/png/windows_-_how_to_disable_windows_7_updates.png
 -rw-r--r-- 1 ramon ramon  1618270 Apr 13 12:31 /media/share/data/documents/png/gentoo_-_tmux_-_bind_keys_for_vim_style_copy_paste_from_the_buffer.png
 -rw-r--r-- 1 ramon ramon   558882 Apr 13 11:30 /media/share/data/documents/png/gentoo_-_tmux_-_copy_text_from_buffer.png
@@ -128,4 +128,5 @@
 -rw-r--r-- 1 ramon ramon  2505341 Apr 26 18:17 /media/share/data/documents/png/raspbian_-_rpi-eeprom-config_-_change_boot_order_in_eeprom_bootloader.png
 -rw-r--r-- 1 ramon ramon   632098 Apr 26 17:56 /media/share/data/documents/png/gentoo_-_chromium_-_force_dark_mode_on_all_websites.png
 -rw-r--r-- 1 ramon ramon  1265377 Apr 28 20:44 /media/share/data/documents/png/gentoo_-_tar_-_how_to_extract_certain_files_from_an_archive.png
+-rw-r--r-- 1 ramon ramon   835039 May  3 11:32 /media/share/data/documents/png/gentoo_-_smartctl_-_how_to_interpret_smart_values_of_seagate_hard_drives2-2.png
 ```
