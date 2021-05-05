@@ -129,7 +129,10 @@
 -rw-r--r-- 1 ramon ramon   632098 Apr 26 17:56 /media/share/data/documents/png/gentoo_-_chromium_-_force_dark_mode_on_all_websites.png
 -rw-r--r-- 1 ramon ramon  1265377 Apr 28 20:44 /media/share/data/documents/png/gentoo_-_tar_-_how_to_extract_certain_files_from_an_archive.png
 -rw-r--r-- 1 ramon ramon   835039 May  3 11:32 /media/share/data/documents/png/gentoo_-_smartctl_-_how_to_interpret_smart_values_of_seagate_hard_drives2-2.png
+-rw-r--r-- 1 ramon ramon  1148433 May  4 21:07 /media/share/data/documents/png/raspbian_-_rsync_-_improve_transfer_speed.png
+-rw-r--r-- 1 ramon ramon  1316131 May  4 14:35 /media/share/data/documents/png/raspbian_-_mkfs.xfs_mkfs.ext4_-_xfs_and_ext4_comparison.png
 -rw-r--r-- 1 ramon ramon  2482995 May  4 12:20 /media/share/data/documents/png/gentoo_-_cryptsetup_dmsetup_-_backup_header_information.png
+-rw-r--r-- 1 ramon ramon  2763330 May  4 20:12 /media/share/data/documents/png/raspbian_-_determine_and_blacklist_misbehaving_usb_attached_scsi_(uas)_devices_slowing_down_transfer_speeds.png
 -rw-r--r-- 1 ramon ramon  2837103 May  4 12:30 /media/share/data/documents/png/gentoo_-_cryptsetup_-_frequently_asked_questions2-2.png
 -rw-r--r-- 1 ramon ramon  7543014 May  4 12:30 /media/share/data/documents/png/gentoo_-_cryptsetup_-_frequently_asked_questions1-2.png
 ```
