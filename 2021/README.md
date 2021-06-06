@@ -157,4 +157,9 @@
 -rw-r--r-- 1 ramon ramon   113789 May 26 13:48 /media/share/data/documents/png/raspbian_-_chown_sshfs_useradd_-_configure_sshfs_via_sftp_without_shell_user.png
 -rw-r--r-- 1 ramon ramon  2891546 May 26 13:57 /media/share/data/documents/png/bananian_-_sshfs_-_how_to_mount_remote_directories.png
 -rw-r--r-- 1 ramon ramon   464730 May 26 13:51 /media/share/data/documents/png/kanotix_-_sshfs_dolphin_fish_-_how_to_bookmark_directories_via_ssh.png
+-rw-r--r-- 1 ramon ramon  2264294 May 28 23:19 /media/share/data/documents/png/raspbian_-_kodi_kodi-visualization_-_how_to_add_visualisations.png
+-rw-r--r-- 1 ramon ramon  1077495 May 29 15:48 /media/share/data/documents/png/raspbian_-_kodi_md5sum_-_forgot_master_lock_password.png
+-rw-r--r-- 1 ramon ramon   835023 Jun  1 17:03 /media/share/data/documents/png/gentoo_-_tor_torbrowser_-_is_it_safe_to_download_files_via_tor.png
+-rw-r--r-- 1 ramon ramon  2328497 Jun  6 07:30 /media/share/data/documents/png/gentoo_-_firejail_groupadd_iptables_nsenter_useradd_unshare_-_restrict_network_access_for_certain_process2-2.png
+-rw-r--r-- 1 ramon ramon   773813 Jun  6 07:21 /media/share/data/documents/png/gentoo_-_firejail_groupadd_iptables_nsenter_useradd_unshare_-_restrict_network_access_for_certain_process1-2.png
 ```
