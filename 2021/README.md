@@ -162,4 +162,7 @@
 -rw-r--r-- 1 ramon ramon   835023 Jun  1 17:03 /media/share/data/documents/png/gentoo_-_tor_torbrowser_-_is_it_safe_to_download_files_via_tor.png
 -rw-r--r-- 1 ramon ramon  2328497 Jun  6 07:30 /media/share/data/documents/png/gentoo_-_firejail_groupadd_iptables_nsenter_useradd_unshare_-_restrict_network_access_for_certain_process2-2.png
 -rw-r--r-- 1 ramon ramon   773813 Jun  6 07:21 /media/share/data/documents/png/gentoo_-_firejail_groupadd_iptables_nsenter_useradd_unshare_-_restrict_network_access_for_certain_process1-2.png
+-rw-r--r-- 1 ramon ramon  1041338 Jun 17 19:54 /media/share/data/documents/png/raspbian_-_sshfs_sudo_-_use_sshfs_via_privileged_user.png
+-rw-r--r-- 1 ramon ramon  1677219 Jul  1 22:51 /media/share/data/documents/png/gentoo_-_bash_truncate_-_empty_the_contents_of_a_file.png
+-rw-r--r-- 1 ramon ramon   637310 Jul  2 19:08 /media/share/data/documents/png/gentoo_-_gentoo-sources_-_difference_between_system.map_and_proc_kallsyms.png
 ```
