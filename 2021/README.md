@@ -2,12 +2,12 @@
 
 ```no-highlight
 -rw-r--r-- 1 ramon ramon  1136029 Jan  2  2021 /media/share/data/documents/png/gentoo_-_bash_-_built-in_double_dash.png
--rw-r--r-- 1 ramon ramon   704953 Jan  5 11:49 /media/share/data/documents/png/gentoo_-_ps_-_output_group_name.png
--rw-r--r-- 1 ramon ramon   909986 Jan  5 11:46 /media/share/data/documents/png/gentoo_-_ps_-_output_parent,_session,_group_progress_id.png
--rw-r--r-- 1 ramon ramon  1646290 Jan  6 10:15 /media/share/data/documents/png/1miscellaneous/android_-_look_up_unknown_phone_numbers_using_facebook_reset_password_or_whatsapp.png
+-rw-r--r-- 1 ramon ramon   704953 Jan  5  2021 /media/share/data/documents/png/gentoo_-_ps_-_output_group_name.png
+-rw-r--r-- 1 ramon ramon   909986 Jan  5  2021 /media/share/data/documents/png/gentoo_-_ps_-_output_parent,_session,_group_progress_id.png
+-rw-r--r-- 1 ramon ramon  1646290 Jan  6  2021 /media/share/data/documents/png/1miscellaneous/android_-_look_up_unknown_phone_numbers_using_facebook_reset_password_or_whatsapp.png
 -rw-r--r-- 1 ramon ramon   293444 Jan  6 22:19 /media/share/data/documents/png/gentoo_-_wget_-_download_specific_directory.png
--rw-r--r-- 1 ramon ramon   300729 Jan  6 02:14 /media/share/data/documents/png/gentoo_-_zerofree_-_empty_free_space1-2.png
--rw-r--r-- 1 ramon ramon   389581 Jan  6 02:17 /media/share/data/documents/png/gentoo_-_zerofree_-_empty_free_space2-2.png
+-rw-r--r-- 1 ramon ramon   300729 Jan  6  2021 /media/share/data/documents/png/gentoo_-_zerofree_-_empty_free_space1-2.png
+-rw-r--r-- 1 ramon ramon   389581 Jan  6  2021 /media/share/data/documents/png/gentoo_-_zerofree_-_empty_free_space2-2.png
 -rw-r--r-- 1 ramon ramon  2188715 Jan  7 23:17 /media/share/data/documents/png/gentoo_-_cd-drive_dmesg_-_get_cd_drive_information.png
 -rw-r--r-- 1 ramon ramon  1331970 Jan  9 22:16 /media/share/data/documents/png/gentoo_-_bash_-_convert_decimal_to_binary1-2.png
 -rw-r--r-- 1 ramon ramon   773443 Jan  9 22:17 /media/share/data/documents/png/gentoo_-_bash_-_convert_decimal_to_binary2-2.png
@@ -165,5 +165,9 @@
 -rw-r--r-- 1 ramon ramon  1041338 Jun 17 19:54 /media/share/data/documents/png/raspbian_-_sshfs_sudo_-_use_sshfs_via_privileged_user.png
 -rw-r--r-- 1 ramon ramon  1677219 Jul  1 22:51 /media/share/data/documents/png/gentoo_-_bash_truncate_-_empty_the_contents_of_a_file.png
 -rw-r--r-- 1 ramon ramon   637310 Jul  2 19:08 /media/share/data/documents/png/gentoo_-_gentoo-sources_-_difference_between_system.map_and_proc_kallsyms.png
+-rw-r--r-- 1 ramon ramon  1193613 Jul  7 16:00 /media/share/data/documents/png/gentoo_-_mariadb_-_sql_join_types_visually_explained.png
 -rw-r--r-- 1 ramon ramon  1972790 Jul  7 02:52 /media/share/data/documents/png/raspbian_-_saned_-_setup_network_scanner.png
+-rw-r--r-- 1 ramon ramon   588129 Jul  7 19:25 /media/share/data/documents/png/raspbian_-_find_-_find_file_from_yesterday.png
+-rw-r--r-- 1 ramon ramon  1134147 Jul  8 12:01 /media/share/data/documents/png/gentoo_-_sed_-_add_character_at_the_end_of_each_line.png
+-rw-r--r-- 1 ramon ramon   878788 Jul  8 12:00 /media/share/data/documents/png/gentoo_-_sed_-_add_character_at_the_beginning_of_each_line.png
 ```
