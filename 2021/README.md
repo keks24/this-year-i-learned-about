@@ -8,7 +8,7 @@
 -rw-r--r-- 1 ramon ramon   293444 Jan  6  2021 /media/share/data/documents/png/gentoo_-_wget_-_download_specific_directory.png
 -rw-r--r-- 1 ramon ramon   300729 Jan  6  2021 /media/share/data/documents/png/gentoo_-_zerofree_-_empty_free_space1-2.png
 -rw-r--r-- 1 ramon ramon   389581 Jan  6  2021 /media/share/data/documents/png/gentoo_-_zerofree_-_empty_free_space2-2.png
--rw-r--r-- 1 ramon ramon  2188715 Jan  7 23:17 /media/share/data/documents/png/gentoo_-_cd-drive_dmesg_-_get_cd_drive_information.png
+-rw-r--r-- 1 ramon ramon  2188715 Jan  7  2021 /media/share/data/documents/png/gentoo_-_cd-drive_dmesg_-_get_cd_drive_information.png
 -rw-r--r-- 1 ramon ramon  1331970 Jan  9 22:16 /media/share/data/documents/png/gentoo_-_bash_-_convert_decimal_to_binary1-2.png
 -rw-r--r-- 1 ramon ramon   773443 Jan  9 22:17 /media/share/data/documents/png/gentoo_-_bash_-_convert_decimal_to_binary2-2.png
 -rw-r--r-- 1 ramon ramon  2569625 Jan 10 15:02 /media/share/data/documents/png/raspbian_-_retropie_-_upgrade_debian_stretch_to_debian_buster.png
@@ -172,4 +172,11 @@
 -rw-r--r-- 1 ramon ramon   878788 Jul  8 12:00 /media/share/data/documents/png/gentoo_-_sed_-_add_character_at_the_beginning_of_each_line.png
 -rw-r--r-- 1 ramon ramon  1196960 Jul  9 11:31 /media/share/data/documents/png/raspbian_-_dmesg_uhubctl_-_device_not_responding_to_setup_address.png
 -rw-r--r-- 1 ramon ramon  1012878 Jul  9 12:45 /media/share/data/documents/png/gentoo_-_powertop_-_persist_settings.png
+-rw-r--r-- 1 ramon ramon  1249466 Jul  9 12:59 /media/share/data/documents/png/gentoo_-_sort_-_sort_by_multiple_keys.png
+-rw-r--r-- 1 ramon ramon   457361 Jul  9 17:19 /media/share/data/documents/png/raspbian_-_dmesg_-_device_descriptor_read_64,_error_-100.png
+-rw-r--r-- 1 ramon ramon  1531415 Jul  9 21:43 /media/share/data/documents/png/gentoo_-_bindkey_cat_zsh_-_display_escape_characters_and_bind_them_to_keys.png
+-rw-r--r-- 1 ramon ramon  2727453 Jul  9 21:28 /media/share/data/documents/png/gentoo_-_udevadm_udev_-_writing_udev_rules.png
+-rw-r--r-- 1 ramon ramon   679326 Jul  9 21:47 /media/share/data/documents/png/gentoo_-_puts_-_escape_sequences.png
+-rw-r--r-- 1 ramon ramon   381613 Jul  9 22:16 /media/share/data/documents/png/gentoo_-_zsh_-_jump_to_slash_delete_to_slash.png
+-rw-r--r-- 1 ramon ramon   530910 Jul  9 22:18 /media/share/data/documents/png/gentoo_-_man_zsh_-_modifying_zsh_word_delimiter.png
 ```
