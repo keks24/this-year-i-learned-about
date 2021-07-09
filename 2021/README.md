@@ -71,7 +71,7 @@
 -rw-r--r-- 1 ramon ramon  3156018 Mar 31 21:39 /media/share/data/documents/png/gentoo_-_badblocks_e2fsck_smartctl_-_diagnose_current_pending_sector_and_reallocated_sector_ct2-2.png
 -rw-r--r-- 1 ramon ramon   650719 Apr  1 14:04 /media/share/data/documents/png/raspbian_-_f3_-_test_sd_cards_properly_via_fight_flash_fraud.png
 -rw-r--r-- 1 ramon ramon  1663595 Apr  1 20:16 /media/share/data/documents/png/gentoo_-_git-lfs_-_how_to_use_large_file_storage.png
--rw-r--r-- 1 ramon ramon   595655 Apr  3 10:08 /media/share/data/documents/png/gentoo_-_neovim_ps2pdf_-_print_text_file.png
+-rw-r--r-- 1 ramon ramon   595655 Apr  3 10:08 /media/share/data/documents/png/gentoo_-_nvim_ps2pdf_-_print_text_file.png
 -rw-r--r-- 1 ramon ramon  1760409 Apr  3 12:04 /media/share/data/documents/png/raspbian_-_calculate_wattage_with_power_supply_efficiency1-2.png
 -rw-r--r-- 1 ramon ramon  5184905 Apr  3 12:16 /media/share/data/documents/png/raspbian_-_calculate_wattage_with_power_supply_efficiency2-2.png
 -rw-r--r-- 1 ramon ramon   872700 Apr  4 17:44 /media/share/data/documents/png/1miscellaneous/android_-_restore_contacts.png
@@ -115,7 +115,7 @@
 -rw-r--r-- 1 ramon ramon  1342544 Apr 20 19:59 /media/share/data/documents/png/raspbian_-_sysfs_-_control_pwr_and_act_leds.png
 -rw-r--r-- 1 ramon ramon  1137646 Apr 22 09:25 /media/share/data/documents/png/raspbian_-_exploring_the_3.3v_power_rail.png
 -rw-r--r-- 1 ramon ramon   913022 Apr 22 09:27 /media/share/data/documents/png/raspbian_-_running_a_5v_fan_on_3.3v_power_rail_or_gpio.png
--rw-r--r-- 1 ramon ramon  4585720 Apr 22 22:16 /media/share/data/documents/png/gentoo_-_neovim_-_modelines.png
+-rw-r--r-- 1 ramon ramon  4585720 Apr 22 22:16 /media/share/data/documents/png/gentoo_-_nvim_-_modelines.png
 -rw-r--r-- 1 ramon ramon  1288859 Apr 22 22:17 /media/share/data/documents/png/gentoo_-_ssh_-_use_multiple_configuration_files.png
 -rw-r--r-- 1 ramon ramon   827365 Apr 23 12:31 /media/share/data/documents/png/gentoo_-_lsblk_-_determine_if_hard_drive_supports_trim_command.png
 -rw-r--r-- 1 ramon ramon  1311006 Apr 23 13:05 /media/share/data/documents/png/gentoo_-_determine_best_suited_recording_technology_shingled_magentic_recording_(smr)_conventional_magnetic_recording_(cmr_pmr).png
@@ -180,4 +180,5 @@
 -rw-r--r-- 1 ramon ramon   381613 Jul  9 22:16 /media/share/data/documents/png/gentoo_-_zsh_-_jump_to_slash_delete_to_slash.png
 -rw-r--r-- 1 ramon ramon   530910 Jul  9 22:18 /media/share/data/documents/png/gentoo_-_man_zsh_-_modifying_zsh_word_delimiter.png
 -rw-r--r-- 1 ramon ramon  1701129 Jul  9 22:32 /media/share/data/documents/png/gentoo_-_udevadm_-_how_to_reload_rules_without_reboot.png
+-rw-r--r-- 1 ramon ramon   868077 Jul  9 23:51 /media/share/data/documents/png/gentoo_-_nvim_-_add_suffix_text_in_visual_mode.png
 ```
