@@ -181,4 +181,6 @@
 -rw-r--r-- 1 ramon ramon   530910 Jul  9 22:18 /media/share/data/documents/png/gentoo_-_man_zsh_-_modifying_zsh_word_delimiter.png
 -rw-r--r-- 1 ramon ramon  1701129 Jul  9 22:32 /media/share/data/documents/png/gentoo_-_udevadm_-_how_to_reload_rules_without_reboot.png
 -rw-r--r-- 1 ramon ramon   868077 Jul  9 23:51 /media/share/data/documents/png/gentoo_-_nvim_-_add_suffix_text_in_visual_mode.png
+-rw-r--r-- 1 ramon ramon  1617850 Jul 10 01:04 /media/share/data/documents/png/gentoo_-_showkey_xev_-_visualise_keyboard_input_escape_sequences.png
+-rw-r--r-- 1 ramon ramon   980221 Jul 10 01:41 /media/share/data/documents/png/gentoo_-_bindkey_zsh_-_how_to_remove_keybindings.png
 ```
