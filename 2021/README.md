@@ -11,10 +11,10 @@
 -rw-r--r-- 1 ramon ramon  2188715 Jan  7  2021 /media/share/data/documents/png/gentoo_-_cd-drive_dmesg_-_get_cd_drive_information.png
 -rw-r--r-- 1 ramon ramon  1331970 Jan  9  2021 /media/share/data/documents/png/gentoo_-_bash_-_convert_decimal_to_binary1-2.png
 -rw-r--r-- 1 ramon ramon   773443 Jan  9  2021 /media/share/data/documents/png/gentoo_-_bash_-_convert_decimal_to_binary2-2.png
--rw-r--r-- 1 ramon ramon  2569625 Jan 10 15:02 /media/share/data/documents/png/raspbian_-_retropie_-_upgrade_debian_stretch_to_debian_buster.png
--rw-r--r-- 1 ramon ramon   958299 Jan 10 19:27 /media/share/data/documents/png/gentoo_-_parted_-_check_optimal_partition_alignment2-2.png
--rw-r--r-- 1 ramon ramon   894752 Jan 10 19:27 /media/share/data/documents/png/gentoo_-_parted_-_check_optimal_partition_alignment1-2.png
--rw-r--r-- 1 ramon ramon   303317 Jan 10 20:34 /media/share/data/documents/png/gentoo_-_awk_fdisk_-_check_optimal_partition_alignment.png
+-rw-r--r-- 1 ramon ramon  2569625 Jan 10  2021 /media/share/data/documents/png/raspbian_-_retropie_-_upgrade_debian_stretch_to_debian_buster.png
+-rw-r--r-- 1 ramon ramon   958299 Jan 10  2021 /media/share/data/documents/png/gentoo_-_parted_-_check_optimal_partition_alignment2-2.png
+-rw-r--r-- 1 ramon ramon   894752 Jan 10  2021 /media/share/data/documents/png/gentoo_-_parted_-_check_optimal_partition_alignment1-2.png
+-rw-r--r-- 1 ramon ramon   303317 Jan 10  2021 /media/share/data/documents/png/gentoo_-_awk_fdisk_-_check_optimal_partition_alignment.png
 -rw-r--r-- 1 ramon ramon  1463090 Jan 16 20:29 /media/share/data/documents/png/gentoo_-_bash_echo_eval_-_use_variables_with_brace_expansion.png
 -rw-r--r-- 1 ramon ramon  1749060 Jan 17 18:43 /media/share/data/documents/png/gentoo_-_bash_-_here-string_here-document_process_substitution1-2.png
 -rw-r--r-- 1 ramon ramon  1717436 Jan 17 18:44 /media/share/data/documents/png/gentoo_-_bash_-_here-string_here-document_process_substitution2-2.png
@@ -185,4 +185,8 @@
 -rw-r--r-- 1 ramon ramon   980221 Jul 10 01:41 /media/share/data/documents/png/gentoo_-_bindkey_zsh_-_how_to_remove_keybindings.png
 -rw-r--r-- 1 ramon ramon  1965899 Jul 11 14:33 /media/share/data/documents/png/gentoo_-_awk_bash_perl-rename_rename_sed_zsh_-_lazy_and_greedy_quantifiers1-2.png
 -rw-r--r-- 1 ramon ramon  2914912 Jul 11 15:44 /media/share/data/documents/png/gentoo_-_awk_bash_perl-rename_rename_sed_zsh_-_lazy_and_greedy_quantifiers2-2.png
+-rw-r--r-- 1 ramon ramon   792231 Jul 12 01:29 /media/share/data/documents/png/raspbian_-_tor_-_route_internet_traffic_via_tor.png
+-rw-r--r-- 1 ramon ramon   902219 Jul 12 19:27 /media/share/data/documents/png/gentoo_-_find_sudo_-_definition_lexical_lexicographical_order.png
+-rw-r--r-- 1 ramon ramon   449703 Jul 13 01:00 /media/share/data/documents/png/gentoo_-_curl_-_how_to_reconnect_a_fritzbox_router_via_tr-68_protocol_(upnp).png
+-rw-r--r-- 1 ramon ramon  2235628 Jul 13 16:11 /media/share/data/documents/png/gentoo_-_keepassxc_pwgen_-_password_entropy.png
 ```
