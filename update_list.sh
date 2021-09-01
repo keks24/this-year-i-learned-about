@@ -25,9 +25,16 @@ then
     /bin/mkdir --parents "${directory_path}"
 fi
 
-echo -e "# ${current_year}\n" > "${readme_file}"
-echo '```no-highlight' >> "${readme_file}"
-/usr/bin/find "${document_directory}" -type f -name "*.png" -newermt "${current_year}${first_month}${first_day}" -and -not -newermt "$(( ${current_year} + 1 ))${first_month}${first_day}" -exec /bin/ls -ltr "{}" + >> "${readme_file}"
-echo '```' >> "${readme_file}"
+file_list=$(/usr/bin/find "${document_directory}" -type f -name "*.png" -newermt "${current_year}${first_month}${first_day}" -and -not -newermt "$(( ${current_year} + 1 ))${first_month}${first_day}" -exec /bin/ls -ltr "{}" +)
+if [[ "${file_list}" == "" ]]
+then
+    echo -e "\e[01;31mCould not find any files in the directory '${document_directory}'.\e[0m" >&2
+    exit 1
+else
+    echo -e "# ${current_year}\n" > "${readme_file}"
+    echo '```no-highlight' >> "${readme_file}"
+    echo "${file_list}" >> "${readme_file}"
+    echo '```' >> "${readme_file}"
+fi
 
 /bin/umount "${mount_point}"
