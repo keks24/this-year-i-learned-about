@@ -1,8 +1,9 @@
 #!/bin/bash
+set -Eeuo pipefail
 
 source "/usr/local/lib/functions.sh"
 
-COMMAND_ARRAY=("/usr/bin/find" "/bin/ls" "/bin/mkdir" "/bin/mount" "/usr/bin/sort" "/bin/umount")
+COMMAND_ARRAY=("/usr/bin/find" "/bin/ls" "/bin/mkdir" "/bin/mount" "/bin/umount")
 checkCommands
 
 # define global variables
