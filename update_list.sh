@@ -1,5 +1,5 @@
 #!/bin/bash
-set -Eeuo pipefail
+set -uo pipefail
 
 source "/usr/local/lib/functions.sh"
 
@@ -26,7 +26,17 @@ then
     /bin/mkdir --parents "${directory_path}"
 fi
 
-file_list=$(/usr/bin/find "${document_directory}" -type f -name "*.html.xz" -newermt "${current_year}${first_month}${first_day}" -and -not -newermt "$(( ${current_year} + 1 ))${first_month}${first_day}" -exec /bin/ls -ltr "{}" +)
+file_list=$(
+            /usr/bin/find \
+                "${document_directory}" \
+                -type f \
+                -name "*.html.xz" \
+                -newermt "${current_year}${first_month}${first_day}" \
+                -and \
+                -not \
+                -newermt "$(( ${current_year} + 1 ))${first_month}${first_day}" \
+                -exec /bin/ls -ltr --full-time "{}" +
+           )
 if [[ "${file_list}" == "" ]]
 then
     echo -e "\e[01;31mCould not find any files of the year '${current_year}' in the directory: '${document_directory}'.\e[0m" >&2
