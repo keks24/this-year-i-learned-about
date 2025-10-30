@@ -469,4 +469,5 @@
 -rw-r--r-- 1 ramon ramon  351152 2025-10-30 16:05:12.000000000 +0100 /media/share/data/documents/html/gentoo_-_cat_echo_sysfs_tee_udevadm_-_control_usb_devices3-3.html.xz
 -rw-r--r-- 1 ramon ramon 1070424 2025-10-30 16:05:12.000000000 +0100 /media/share/data/documents/html/gentoo_-_cat_echo_sysfs_tee_udevadm_-_control_usb_devices2-3.html.xz
 -rw-r--r-- 1 ramon ramon  354896 2025-10-30 16:05:12.000000000 +0100 /media/share/data/documents/html/gentoo_-_cat_echo_sysfs_tee_udevadm_-_control_usb_devices1-3.html.xz
+-rw-r--r-- 1 ramon ramon  351156 2025-10-30 16:32:29.000000000 +0100 /media/share/data/documents/html/gentoo_-_udevadm_-_comparing_and_assigning_syntaxes.html.xz
 ```
