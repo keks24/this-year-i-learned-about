@@ -10,7 +10,7 @@ current_year=$(/bin/date +%Y)
 first_day="01"
 first_month="01"
 mount_point="/media/share/data"
-document_directory="${mount_point}/documents/png"
+document_directory="${mount_point}/documents/html"
 directory_path="${current_year}"
 markdown_filename="README.md"
 readme_file="${directory_path}/${markdown_filename}"
@@ -25,10 +25,10 @@ then
     /bin/mkdir --parents "${directory_path}"
 fi
 
-file_list=$(/usr/bin/find "${document_directory}" -type f -name "*.png" -newermt "${current_year}${first_month}${first_day}" -and -not -newermt "$(( ${current_year} + 1 ))${first_month}${first_day}" -exec /bin/ls -ltr "{}" +)
+file_list=$(/usr/bin/find "${document_directory}" -type f -name "*.html.xz" -newermt "${current_year}${first_month}${first_day}" -and -not -newermt "$(( ${current_year} + 1 ))${first_month}${first_day}" -exec /bin/ls -ltr "{}" +)
 if [[ "${file_list}" == "" ]]
 then
-    echo -e "\e[01;31mCould not find any files in the directory '${document_directory}'.\e[0m" >&2
+    echo -e "\e[01;31mCould not find any files of the year '${current_year}' in the directory: '${document_directory}'.\e[0m" >&2
     exit 1
 else
     echo -e "# ${current_year}\n" > "${readme_file}"
