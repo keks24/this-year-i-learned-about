@@ -6,7 +6,7 @@ COMMAND_ARRAY=("/usr/bin/find" "/bin/ls" "/bin/mkdir" "/bin/mount" "/usr/bin/sor
 checkCommands
 
 # define global variables
-current_year=$(date +%Y)
+current_year=$(/bin/date +%Y)
 first_day="01"
 first_month="01"
 mount_point="/media/share/data"
