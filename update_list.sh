@@ -39,7 +39,7 @@ file_list=$(
            )
 if [[ "${file_list}" == "" ]]
 then
-    echo -e "\e[01;31mCould not find any files of the year '${current_year}' in the directory: '${document_directory}'.\e[0m" >&2
+    echo -e "\e[01;31mCould not find any files corresponding to the year '${current_year}' in the directory: '${document_directory}'.\e[0m" >&2
     exit 1
 else
     echo -e "# ${current_year}\n" > "${readme_file}"
