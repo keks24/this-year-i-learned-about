@@ -28,6 +28,7 @@ fi
 
 file_list=$(
             /usr/bin/find \
+                -L \
                 "${document_directory}" \
                 -type f \
                 -name "*.html.xz" \
